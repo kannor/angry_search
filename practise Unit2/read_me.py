@@ -1,4 +1,2 @@
-f = open('f.txt','r')
-print f.read()
-
-
+f = open('search.txt','r+')
+f.write('i can access this file')
