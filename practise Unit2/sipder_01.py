@@ -1,5 +1,5 @@
 from urllib2 import urlopen
-f = open('sipder_01.txt','a')
+f = open('sipder_ghana_web.txt','a')
 def get_page(url):
   try:
     return str(urlopen(url).read())
@@ -67,4 +67,4 @@ def print_all_links_in_links(page):
       f.write('done\n')
       print 'done'
       break
-print_all_links_in_links(get_page('https://xkcd.com/352'))
+print_all_links_in_links(get_page('http://www.ghanaweb.com/'))

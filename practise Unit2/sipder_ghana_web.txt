@@ -1,0 +1,4062 @@
+going to crawl  displaypreference.php?url=www.ghanaweb.com%2F
+Cannot open URL displaypreference.php?url=www.ghanaweb.com%2F for reading
+done
+going to crawl  http://mobile.ghanaweb.com/
+index.php
+news.php
+sports.php
+business.php
+classifieds.php
+galleries.overview.php
+article.php?ID=248132
+article.php?ID=248132
+article.php?ID=248137
+article.php?ID=248133
+article.php?ID=248126
+article.php?ID=248125
+article.php?ID=248089
+article.php?ID=248088
+article.php?ID=248085
+article.php?ID=248084
+article.php?ID=248083
+article.php?ID=248082
+article.php?ID=248103
+article.php?ID=248094
+article.php?ID=248134
+article.php?ID=248134
+article.php?ID=248108
+article.php?ID=248108
+article.php?ID=248134
+article.php?ID=248111
+article.php?ID=248109
+article.php?ID=248116
+article.php?ID=248059
+article.php?ID=248055
+article.php?ID=248122
+article.php?ID=248121
+article.php?ID=248114
+article.php?ID=248090
+article.php?ID=248087
+article.php?ID=248086
+http://www.ghanaweb.com/GhanaHomePage
+index.php
+news.overview.php?cat=6
+news.php
+sports.php
+business.php
+classifieds.php
+galleries.overview.php
+http://www.zebraverkeer.com/ghanawebx/index.do
+live-radio.php
+done
+going to crawl  http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128617a945&cb=INSERT_RANDOM_NUMBER_HERE
+./index.html
+./index.html
+fruits.html
+fruits.html
+machines.html
+gallery.html
+orders.php
+about-us.html
+directors.html
+team.html
+investment.html
+investment.html
+distributorship.php
+contact.php
+dio.pdf
+gallery.html
+gallery.html
+machines.html
+gallery.html
+gallery.html
+http://www.zummo.es/
+done
+going to crawl  http://members.ghanaweb.com/private/register.php
+displaypreference.php?url=members.ghanaweb.com%2Fprivate%2Fregister.php
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/private/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+update.profile.php
+change.email.php
+change.password.php
+update.dating.profile.php
+delete_account.php
+photos.php
+manage.videos.php
+messages.php
+classifieds.php
+manage.blog.php
+bookmarks.php
+manage.properties.php
+../profiles/
+../classifieds
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+mailto: webmaster@ghanaweb.com?subject=registration-@email
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/private/register.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/private/forgotten.php
+displaypreference.php?url=members.ghanaweb.com%2Fprivate%2Fforgotten.php
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/private/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+update.profile.php
+change.email.php
+change.password.php
+update.dating.profile.php
+delete_account.php
+photos.php
+manage.videos.php
+messages.php
+classifieds.php
+manage.blog.php
+bookmarks.php
+manage.properties.php
+../profiles/
+../classifieds
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128617a945&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/NewsArchive/artikel.php?ID=248125
+/GhanaHomePage/health/artikel.php?ID=248127
+/GhanaHomePage/crime/artikel.php?ID=247978
+/GhanaHomePage/politics/artikel.php?ID=248062
+/GhanaHomePage/regional/artikel.php?ID=247961
+/GhanaHomePage/diaspora/artikel.php?ID=247885
+/GhanaHomePage/religion/artikel.php?ID=248067
+/GhanaHomePage/health/artikel.php?ID=247771
+/GhanaHomePage/SportsArchive/artikel.php?ID=248116
+/GhanaHomePage/SportsArchive/artikel.php?ID=247980
+/GhanaHomePage/athletics/artikel.php?ID=247996
+/GhanaHomePage/SportsArchive/artikel.php?ID=247459
+/GhanaHomePage/realestate/luxury_houses.php?ID=1100
+/GhanaHomePage/business/
+/GhanaHomePage/market/
+/GhanaHomePage/telephone_directory/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/entertainment/
+/GhanaHomePage/audio/clips.php?cat=0&sort=1
+/GhanaHomePage/audio/
+/GhanaHomePage/entertainment/photo.archive.php
+/GhanaHomePage/games/
+/GhanaHomePage/tourism/
+/GhanaHomePage/general/statistics.php
+/GhanaHomePage/republic/
+/GhanaHomePage/people/
+/GhanaHomePage/directory/
+http://sil.ghanaweb.com/
+/GhanaHomePage/features/
+http://discussions.ghanaweb.com/
+/GhanaHomePage/poll/
+/GhanaHomePage/blogs/
+http://members.ghanaweb.com/profiles/profile.php?ID=401058
+http://members.ghanaweb.com/profiles/index.php?country=US
+http://members.ghanaweb.com/profiles/index.php?country=all
+http://members.ghanaweb.com/private/
+/GhanaHomePage/classifieds/
+http://members.ghanaweb.com/dating/
+/GhanaHomePage/diaspora/
+/GhanaHomePage/features/
+/GhanaHomePage/fun/good_old_days.php
+/GhanaHomePage/fun/true_stories.php
+/GhanaHomePage/athletics/
+/GhanaHomePage/annual/
+/GhanaHomePage/bball/
+/GhanaHomePage/religion/bible.php
+/GhanaHomePage/blackstars/
+/GhanaHomePage/blogs/
+/GhanaHomePage/bookshop/
+/GhanaHomePage/boxing/
+/GhanaHomePage/economy/budget.php
+/GhanaHomePage/business/
+/GhanaHomePage/used_cars/
+/GhanaHomePage/chat/
+/GhanaHomePage/geography/city.php
+/GhanaHomePage/classifieds/
+/GhanaHomePage/geography/climate.php
+/GhanaHomePage/cricket/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/it/cybercafes.php
+/GhanaHomePage/classifieds/listing.php?CATEGORY=C
+/GhanaHomePage/general/defence.php
+/GhanaHomePage/dictionary/
+/GhanaHomePage/foreign_affairs/abroad.php
+/GhanaHomePage/opinions/
+/GhanaHomePage/general/did-u-know.php
+http://drivingtest.ghanaweb.com/
+/GhanaHomePage/economy/statistics.php
+/GhanaHomePage/education/
+/GhanaHomePage/election2008/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/tribes/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/faq/
+/GhanaHomePage/features/
+/GhanaHomePage/food/
+/GhanaHomePage/fun/
+/GhanaHomePage/games/
+/GhanaHomePage/country_information/
+/GhanaHomePage/geography/
+/GhanaHomePage/golf/
+/GhanaHomePage/fun/good_old_days.php
+/GhanaHomePage/republic/
+/GhanaHomePage/hball/
+/GhanaHomePage/health/
+/GhanaHomePage/history/
+/GhanaHomePage/hockey/
+http://electroland.ghanaweb.com/
+/GhanaHomePage/health/hospitals.php
+/GhanaHomePage/tourism/hotels.php
+/GhanaHomePage/realestate/
+/GhanaHomePage/economy/import_duty.php
+/GhanaHomePage/general/statistics.php
+/GhanaHomePage/it/isp.php
+/GhanaHomePage/it/cybercafes.php
+/GhanaHomePage/jobs/
+/GhanaHomePage/fun/jokes.php
+/GhanaHomePage/diaspora/ghanaladies.php
+/GhanaHomePage/tribes/languages.php
+/GhanaHomePage/directory/
+http://sil.ghanaweb.coml.php
+/GhanaHomePage/geography/maps.php
+/GhanaHomePage/republic/ministers.php
+/GhanaHomePage/republic/ministries.php
+http://mobile.ghanaweb.com/
+/television/ghana_movies.php
+/GhanaHomePage/audio/
+/GhanaHomePage/republic/
+/GhanaHomePage/NewsArchive/archive.php
+/GhanaHomePage/directory/cat30.html
+/GhanaHomePage/NewsArchive/obituaries.php
+/GhanaHomePage/religion/bible.php
+/GhanaHomePage/foreign_affairs/org.php
+/GhanaHomePage/republic/parliament.php
+/GhanaHomePage/people/
+/GhanaHomePage/NewsArchive/photo.archive.php
+/GhanaHomePage/republic/polit_hist.php
+/GhanaHomePage/republic/party.php
+/GhanaHomePage/poll/
+/GhanaHomePage/republic/president.php
+/GhanaHomePage/quiz/
+/GhanaHomePage/communication/radio.php
+/GhanaHomePage/geography/region.php
+/GhanaHomePage/religion/
+http://sil.ghanaweb.coml.php
+/GhanaHomePage/technology/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/economy/gse.php
+/GhanaHomePage/education/browse2.php
+http://maxmart.ghanaweb.com/
+/GhanaHomePage/fun/
+/GhanaHomePage/communication/
+/GhanaHomePage/telephone_directory
+/GhanaHomePage/communication/television.php
+/GhanaHomePage/tourism/
+/GhanaHomePage/soccer_transfers/
+/GhanaHomePage/fun/trotro.php
+/GhanaHomePage/fun/true_stories.php
+/GhanaHomePage/education/cape.html
+/GhanaHomePage/education/ust.html
+/GhanaHomePage/used_cars/
+/GhanaHomePage/audio/clips.php?cat=0
+/GhanaHomePage/tourism/akosombo.php
+/GhanaHomePage/directory
+/GhanaHomePage/fun/
+/GhanaHomePage/NewsArchive/world.news.php
+/GhanaHomePage/annual/
+http://members.ghanaweb.com/profiles/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7c42476183e&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.kingslightchapel.org
+/GhanaHomePage/jobs/
+http://zummo.ghanaweb.com/
+http://ugodeal.ghanaweb.com/
+http://electroland.ghanaweb.com
+http://maxmart.ghanaweb.com/
+/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4435
+http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4435
+http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9538
+http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9538
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/NewsArchive/
+Cannot open URL /GhanaHomePage/NewsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/
+Cannot open URL /GhanaHomePage/SportsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/business/
+Cannot open URL /GhanaHomePage/business/ for reading
+done
+going to crawl  /GhanaHomePage/entertainment/
+Cannot open URL /GhanaHomePage/entertainment/ for reading
+done
+going to crawl  /GhanaHomePage/country_information/
+Cannot open URL /GhanaHomePage/country_information/ for reading
+done
+going to crawl  /GhanaHomePage/opinions/
+Cannot open URL /GhanaHomePage/opinions/ for reading
+done
+going to crawl  http://members.ghanaweb.com/
+displaypreference.php?url=members.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+./profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+./dating/
+./classmates/
+./hometown/
+./private/login.php
+./private/register.php
+profiles/index.php?country=US
+../profiles/index.php?country=all
+../hometown/
+./classmates/
+./dating/
+private/register.php
+profiles/profile.php?ID=634377
+profiles/profile.php?ID=633424
+profiles/profile.php?ID=636673
+profiles/profile.php?ID=638283
+profiles/profile.php?ID=637952
+profiles/profile.php?ID=633537
+profiles/profile.php?ID=638498
+profiles/profile.php?ID=637333
+profiles/profile.php?ID=636322
+profiles/profile.php?ID=637869
+profiles/profile.php?ID=634097
+profiles/profile.php?ID=638310
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/NewsArchive/
+Cannot open URL /GhanaHomePage/NewsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/
+Cannot open URL /GhanaHomePage/NewsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/artikel.php?ID=248125
+Cannot open URL /GhanaHomePage/NewsArchive/artikel.php?ID=248125 for reading
+done
+going to crawl  /GhanaHomePage/health/artikel.php?ID=248127
+Cannot open URL /GhanaHomePage/health/artikel.php?ID=248127 for reading
+done
+going to crawl  /GhanaHomePage/crime/artikel.php?ID=247978
+Cannot open URL /GhanaHomePage/crime/artikel.php?ID=247978 for reading
+done
+going to crawl  /GhanaHomePage/politics/artikel.php?ID=248062
+Cannot open URL /GhanaHomePage/politics/artikel.php?ID=248062 for reading
+done
+going to crawl  /GhanaHomePage/regional/artikel.php?ID=247961
+Cannot open URL /GhanaHomePage/regional/artikel.php?ID=247961 for reading
+done
+going to crawl  /GhanaHomePage/diaspora/artikel.php?ID=247885
+Cannot open URL /GhanaHomePage/diaspora/artikel.php?ID=247885 for reading
+done
+going to crawl  /GhanaHomePage/religion/artikel.php?ID=248067
+Cannot open URL /GhanaHomePage/religion/artikel.php?ID=248067 for reading
+done
+going to crawl  /GhanaHomePage/health/artikel.php?ID=247771
+Cannot open URL /GhanaHomePage/health/artikel.php?ID=247771 for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/artikel.php?ID=248116
+Cannot open URL /GhanaHomePage/SportsArchive/artikel.php?ID=248116 for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/artikel.php?ID=247980
+Cannot open URL /GhanaHomePage/SportsArchive/artikel.php?ID=247980 for reading
+done
+going to crawl  /GhanaHomePage/athletics/artikel.php?ID=247996
+Cannot open URL /GhanaHomePage/athletics/artikel.php?ID=247996 for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/artikel.php?ID=247459
+Cannot open URL /GhanaHomePage/SportsArchive/artikel.php?ID=247459 for reading
+done
+going to crawl  /GhanaHomePage/realestate/luxury_houses.php?ID=1100
+Cannot open URL /GhanaHomePage/realestate/luxury_houses.php?ID=1100 for reading
+done
+going to crawl  /GhanaHomePage/business/
+Cannot open URL /GhanaHomePage/business/ for reading
+done
+going to crawl  /GhanaHomePage/market/
+Cannot open URL /GhanaHomePage/market/ for reading
+done
+going to crawl  /GhanaHomePage/telephone_directory/
+Cannot open URL /GhanaHomePage/telephone_directory/ for reading
+done
+going to crawl  /GhanaHomePage/economy/forex.php
+Cannot open URL /GhanaHomePage/economy/forex.php for reading
+done
+going to crawl  /GhanaHomePage/entertainment/
+Cannot open URL /GhanaHomePage/entertainment/ for reading
+done
+going to crawl  /GhanaHomePage/audio/clips.php?cat=0&sort=1
+Cannot open URL /GhanaHomePage/audio/clips.php?cat=0&sort=1 for reading
+done
+going to crawl  /GhanaHomePage/audio/
+Cannot open URL /GhanaHomePage/audio/ for reading
+done
+going to crawl  /GhanaHomePage/entertainment/photo.archive.php
+Cannot open URL /GhanaHomePage/entertainment/photo.archive.php for reading
+done
+going to crawl  /GhanaHomePage/games/
+Cannot open URL /GhanaHomePage/games/ for reading
+done
+going to crawl  /GhanaHomePage/tourism/
+Cannot open URL /GhanaHomePage/tourism/ for reading
+done
+going to crawl  /GhanaHomePage/general/statistics.php
+Cannot open URL /GhanaHomePage/general/statistics.php for reading
+done
+going to crawl  /GhanaHomePage/republic/
+Cannot open URL /GhanaHomePage/republic/ for reading
+done
+going to crawl  /GhanaHomePage/people/
+Cannot open URL /GhanaHomePage/people/ for reading
+done
+going to crawl  /GhanaHomePage/directory/
+Cannot open URL /GhanaHomePage/directory/ for reading
+done
+going to crawl  http://sil.ghanaweb.com/
+online.php
+l.php
+p.php
+s.php
+archive.php
+register.php
+r.php?thread=8214354
+r.php?thread=8214283
+r.php?thread=8214233
+r.php?thread=8214185
+r.php?thread=8214140
+r.php?thread=8214110
+r.php?thread=8214029
+r.php?thread=8213980
+r.php?thread=8213941
+r.php?thread=8213937
+r.php?thread=8213921
+r.php?thread=8213809
+r.php?thread=8213771
+r.php?thread=8213673
+r.php?thread=8213655
+r.php?thread=8213652
+r.php?thread=8213525
+r.php?thread=8213504
+r.php?thread=8213446
+r.php?thread=8213370
+r.php?thread=8213280
+r.php?thread=8213226
+r.php?thread=8213224
+r.php?thread=8213211
+r.php?thread=8213171
+r.php?thread=8213158
+r.php?thread=8213095
+r.php?thread=8213080
+r.php?thread=8212795
+r.php?thread=8212788
+r.php?thread=8212402
+r.php?thread=8212400
+r.php?thread=8212378
+r.php?thread=8212323
+r.php?thread=8212141
+r.php?thread=8212112
+r.php?thread=8211998
+r.php?thread=8211944
+r.php?thread=8211900
+r.php?thread=8211867
+r.php?thread=8211800
+r.php?thread=8211796
+r.php?thread=8211742
+r.php?thread=8211717
+r.php?thread=8211660
+r.php?thread=8211569
+r.php?thread=8211505
+r.php?thread=8211443
+r.php?thread=8211339
+r.php?thread=8211147
+r.php?thread=8211000
+r.php?thread=8210863
+r.php?thread=8210774
+r.php?thread=8210756
+r.php?thread=8210732
+r.php?thread=8210607
+r.php?thread=8210597
+r.php?thread=8210572
+r.php?thread=8210495
+r.php?thread=8210407
+r.php?thread=8210344
+r.php?thread=8210310
+r.php?thread=8210285
+r.php?thread=8210277
+r.php?thread=8210178
+r.php?thread=8210117
+r.php?thread=8209933
+r.php?thread=8209897
+r.php?thread=8209742
+r.php?thread=8209708
+l.php
+p.php
+s.php
+archive.php
+register.php
+l.php?thread=8214354&action=1
+l.php?thread=8209708&action=-1&
+http://www.ghanaweb.com/GhanaHomePage/search.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+http://www.ghanaweb.com/GhanaHomePage/textonly/screenreader.php?l=http://sil.ghanaweb.com//
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?L=http://sil.ghanaweb.com//
+done
+going to crawl  /GhanaHomePage/features/
+Cannot open URL /GhanaHomePage/features/ for reading
+done
+going to crawl  http://discussions.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php
+http://www.ghanaweb.com/GhanaHomePage/directory
+faq.php?sid=8eeba2a12fd27383cda045f8c4971300
+search.php?sid=8eeba2a12fd27383cda045f8c4971300
+memberlist.php?sid=8eeba2a12fd27383cda045f8c4971300
+groupcp.php?sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=register&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=editprofile&amp;sid=8eeba2a12fd27383cda045f8c4971300
+privmsg.php?folder=inbox&amp;sid=8eeba2a12fd27383cda045f8c4971300
+login.php?sid=8eeba2a12fd27383cda045f8c4971300
+http://radio.ghanaweb.com/live-radio.test.php
+index.php?sid=8eeba2a12fd27383cda045f8c4971300
+search.php?search_id=unanswered&amp;sid=8eeba2a12fd27383cda045f8c4971300
+index.php?c=2&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewforum.php?f=2&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=2381&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=3351&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2491518&amp;sid=8eeba2a12fd27383cda045f8c4971300#2491518
+viewforum.php?f=3&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=14982&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2485458&amp;sid=8eeba2a12fd27383cda045f8c4971300#2485458
+viewforum.php?f=10&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=4798&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2491326&amp;sid=8eeba2a12fd27383cda045f8c4971300#2491326
+viewforum.php?f=16&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=21897&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2222708&amp;sid=8eeba2a12fd27383cda045f8c4971300#2222708
+viewforum.php?f=15&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=6501&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2348050&amp;sid=8eeba2a12fd27383cda045f8c4971300#2348050
+index.php?c=3&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewforum.php?f=13&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=5120&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=107881&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2491503&amp;sid=8eeba2a12fd27383cda045f8c4971300#2491503
+viewforum.php?f=5&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=2657&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=180661&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2491297&amp;sid=8eeba2a12fd27383cda045f8c4971300#2491297
+viewforum.php?f=11&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=2657&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=2106&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2491313&amp;sid=8eeba2a12fd27383cda045f8c4971300#2491313
+viewforum.php?f=17&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=5120&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=2591&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2490214&amp;sid=8eeba2a12fd27383cda045f8c4971300#2490214
+viewforum.php?f=7&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=14982&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2448607&amp;sid=8eeba2a12fd27383cda045f8c4971300#2448607
+viewforum.php?f=8&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=112589&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2427577&amp;sid=8eeba2a12fd27383cda045f8c4971300#2427577
+viewforum.php?f=12&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=12183&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2474153&amp;sid=8eeba2a12fd27383cda045f8c4971300#2474153
+viewforum.php?f=4&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=97765&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2438918&amp;sid=8eeba2a12fd27383cda045f8c4971300#2438918
+viewforum.php?f=9&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1370&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=170423&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2426866&amp;sid=8eeba2a12fd27383cda045f8c4971300#2426866
+viewforum.php?f=14&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=3351&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewtopic.php?p=2401300&amp;sid=8eeba2a12fd27383cda045f8c4971300#2401300
+index.php?mark=forums&amp;sid=8eeba2a12fd27383cda045f8c4971300
+viewonline.php?sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=182867&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=75326&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=96866&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=3287&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=3265&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=107881&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=2523&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1717&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=14067&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=1762&amp;sid=8eeba2a12fd27383cda045f8c4971300
+profile.php?mode=viewprofile&amp;u=14982&amp;sid=8eeba2a12fd27383cda045f8c4971300
+http://www.phpbb.com/
+done
+going to crawl  /GhanaHomePage/poll/
+Cannot open URL /GhanaHomePage/poll/ for reading
+done
+going to crawl  /GhanaHomePage/blogs/
+Cannot open URL /GhanaHomePage/blogs/ for reading
+done
+going to crawl  http://members.ghanaweb.com/profiles/profile.php?ID=573394
+displaypreference.php?url=members.ghanaweb.com%2Fprofiles%2Fprofile.php%3FID%3D573394
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/profiles/index.php?country=all
+/profiles/index.php?country=GH
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+../profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+../dating/
+../classmates/
+../hometown/
+../private/login.php
+../private/register.php
+profile.php?ID=573394&mode=public
+profile.php?ID=573394&mode=private
+profile.php?ID=573394&mode=dating
+profile.enlarge_photo.php?ID=573394&PHOTO=119118271
+../private/message.send.php?ID=573394
+index.php?country=GH
+../hometown/town.php?ID=616
+../classmates/school.php?ID=320
+../classmates/school.php?ID=1115
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/profiles/profile.php?ID=573394
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/profiles/index.php?country=US
+Cannot open URL http://members.ghanaweb.com/profiles/index.php?country=US for reading
+done
+going to crawl  http://members.ghanaweb.com/profiles/index.php?country=all
+displaypreference.php?url=members.ghanaweb.com%2Fprofiles%2Findex.php%3Fcountry%3Dall
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+../profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+../dating/
+../classmates/
+../hometown/
+../private/login.php
+../private/register.php
+/profiles/index.php?country=all&page=2
+/profiles/index.php?country=all&page=3
+/profiles/index.php?country=all&page=4
+/profiles/index.php?country=all&page=5
+/profiles/index.php?country=all&page=6
+/profiles/index.php?country=all&page=7
+/profiles/index.php?country=all&page=188
+/profiles/index.php?country=all&page=189
+/profiles/index.php?country=all&page=2
+profile.php?ID=639505
+profile.php?ID=395457
+profile.php?ID=639435
+profile.php?ID=60379
+profile.php?ID=632707
+profile.php?ID=639181
+profile.php?ID=631151
+profile.php?ID=639298
+profile.php?ID=634097
+profile.php?ID=323031
+profile.php?ID=395072
+profile.php?ID=639242
+profile.php?ID=639237
+profile.php?ID=624931
+profile.php?ID=638323
+profile.php?ID=622745
+profile.php?ID=639164
+profile.php?ID=639166
+profile.php?ID=639158
+profile.php?ID=622523
+profile.php?ID=575896
+profile.php?ID=639135
+profile.php?ID=639121
+profile.php?ID=639128
+profile.php?ID=639094
+profile.php?ID=639014
+profile.php?ID=623418
+profile.php?ID=638997
+profile.php?ID=638986
+profile.php?ID=638988
+profile.php?ID=429677
+profile.php?ID=638689
+profile.php?ID=638369
+profile.php?ID=638980
+profile.php?ID=638964
+profile.php?ID=638945
+profile.php?ID=454641
+profile.php?ID=638930
+profile.php?ID=638905
+profile.php?ID=638693
+profile.php?ID=638883
+profile.php?ID=110599
+profile.php?ID=638864
+profile.php?ID=638863
+profile.php?ID=638401
+profile.php?ID=638850
+profile.php?ID=638787
+profile.php?ID=638746
+profile.php?ID=404702
+profile.php?ID=638757
+profile.php?ID=637195
+profile.php?ID=75463
+profile.php?ID=638688
+profile.php?ID=638667
+profile.php?ID=638674
+profile.php?ID=321551
+profile.php?ID=229364
+profile.php?ID=638663
+profile.php?ID=421134
+profile.php?ID=638446
+profile.php?ID=638623
+profile.php?ID=423191
+profile.php?ID=638538
+profile.php?ID=633787
+profile.php?ID=13846
+profile.php?ID=638541
+profile.php?ID=229605
+profile.php?ID=638509
+profile.php?ID=593653
+profile.php?ID=638511
+profile.php?ID=638498
+profile.php?ID=637952
+profile.php?ID=451674
+profile.php?ID=638365
+profile.php?ID=638310
+profile.php?ID=638283
+profile.php?ID=634074
+profile.php?ID=637985
+profile.php?ID=638244
+profile.php?ID=628921
+profile.php?ID=601741
+profile.php?ID=638193
+profile.php?ID=289840
+profile.php?ID=638200
+profile.php?ID=54250
+profile.php?ID=613837
+profile.php?ID=638132
+profile.php?ID=638121
+profile.php?ID=638117
+profile.php?ID=638107
+profile.php?ID=435599
+profile.php?ID=568900
+profile.php?ID=419771
+profile.php?ID=638057
+profile.php?ID=638004
+profile.php?ID=613893
+profile.php?ID=374662
+profile.php?ID=632281
+profile.php?ID=637941
+profile.php?ID=637727
+profile.php?ID=397041
+profile.php?ID=637869
+profile.php?ID=429240
+profile.php?ID=637836
+profile.php?ID=637818
+profile.php?ID=637767
+profile.php?ID=637719
+profile.php?ID=637707
+profile.php?ID=630251
+profile.php?ID=432664
+profile.php?ID=449064
+profile.php?ID=637639
+profile.php?ID=624986
+profile.php?ID=637619
+profile.php?ID=637601
+profile.php?ID=637539
+profile.php?ID=637555
+profile.php?ID=637547
+profile.php?ID=637535
+profile.php?ID=637531
+profile.php?ID=621090
+profile.php?ID=637502
+profile.php?ID=632323
+profile.php?ID=637479
+profile.php?ID=637463
+profile.php?ID=637453
+profile.php?ID=637450
+profile.php?ID=637445
+profile.php?ID=637333
+profile.php?ID=636844
+profile.php?ID=637406
+profile.php?ID=632827
+profile.php?ID=200472
+profile.php?ID=637348
+profile.php?ID=636778
+profile.php?ID=637330
+profile.php?ID=637316
+profile.php?ID=637310
+profile.php?ID=636591
+profile.php?ID=637286
+profile.php?ID=631536
+profile.php?ID=636962
+profile.php?ID=636763
+profile.php?ID=636983
+profile.php?ID=637173
+profile.php?ID=635713
+profile.php?ID=637126
+profile.php?ID=637109
+profile.php?ID=637025
+profile.php?ID=637057
+profile.php?ID=637010
+profile.php?ID=611126
+profile.php?ID=633105
+profile.php?ID=14919
+profile.php?ID=580671
+profile.php?ID=633955
+profile.php?ID=636673
+profile.php?ID=446227
+profile.php?ID=636506
+profile.php?ID=622486
+/profiles/index.php?country=all&page=2
+/profiles/index.php?country=all&page=3
+/profiles/index.php?country=all&page=4
+/profiles/index.php?country=all&page=5
+/profiles/index.php?country=all&page=6
+/profiles/index.php?country=all&page=7
+/profiles/index.php?country=all&page=188
+/profiles/index.php?country=all&page=189
+/profiles/index.php?country=all&page=2
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/profiles/index.php?country=all
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/private/
+displaypreference.php?url=members.ghanaweb.com%2Fprivate%2Flogin.php%3Fstarturl%3Dmembers.ghanaweb.com%252Fprivate%252F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/private/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+update.profile.php
+change.email.php
+change.password.php
+update.dating.profile.php
+delete_account.php
+photos.php
+manage.videos.php
+messages.php
+classifieds.php
+manage.blog.php
+bookmarks.php
+manage.properties.php
+../profiles/
+../classifieds
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+register.php?starturl=members.ghanaweb.com/private/
+forgotten.php?starturl=members.ghanaweb.com/private/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/private/login.php?starturl=members.ghanaweb.com%2Fprivate%2F
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/classifieds/
+Cannot open URL /GhanaHomePage/classifieds/ for reading
+done
+going to crawl  http://members.ghanaweb.com/dating/
+Cannot open URL http://members.ghanaweb.com/dating/ for reading
+done
+going to crawl  /GhanaHomePage/diaspora/
+Cannot open URL /GhanaHomePage/diaspora/ for reading
+done
+going to crawl  /GhanaHomePage/features/
+Cannot open URL /GhanaHomePage/features/ for reading
+done
+going to crawl  /GhanaHomePage/fun/good_old_days.php
+Cannot open URL /GhanaHomePage/fun/good_old_days.php for reading
+done
+going to crawl  /GhanaHomePage/fun/true_stories.php
+Cannot open URL /GhanaHomePage/fun/true_stories.php for reading
+done
+going to crawl  /GhanaHomePage/athletics/
+Cannot open URL /GhanaHomePage/athletics/ for reading
+done
+going to crawl  /GhanaHomePage/annual/
+Cannot open URL /GhanaHomePage/annual/ for reading
+done
+going to crawl  /GhanaHomePage/bball/
+Cannot open URL /GhanaHomePage/bball/ for reading
+done
+going to crawl  /GhanaHomePage/religion/bible.php
+Cannot open URL /GhanaHomePage/religion/bible.php for reading
+done
+going to crawl  /GhanaHomePage/blackstars/
+Cannot open URL /GhanaHomePage/blackstars/ for reading
+done
+going to crawl  /GhanaHomePage/blogs/
+Cannot open URL /GhanaHomePage/blogs/ for reading
+done
+going to crawl  /GhanaHomePage/bookshop/
+Cannot open URL /GhanaHomePage/bookshop/ for reading
+done
+going to crawl  /GhanaHomePage/boxing/
+Cannot open URL /GhanaHomePage/boxing/ for reading
+done
+going to crawl  /GhanaHomePage/economy/budget.php
+Cannot open URL /GhanaHomePage/economy/budget.php for reading
+done
+going to crawl  /GhanaHomePage/business/
+Cannot open URL /GhanaHomePage/business/ for reading
+done
+going to crawl  /GhanaHomePage/used_cars/
+Cannot open URL /GhanaHomePage/used_cars/ for reading
+done
+going to crawl  /GhanaHomePage/chat/
+Cannot open URL /GhanaHomePage/chat/ for reading
+done
+going to crawl  /GhanaHomePage/geography/city.php
+Cannot open URL /GhanaHomePage/geography/city.php for reading
+done
+going to crawl  /GhanaHomePage/classifieds/
+Cannot open URL /GhanaHomePage/classifieds/ for reading
+done
+going to crawl  /GhanaHomePage/geography/climate.php
+Cannot open URL /GhanaHomePage/geography/climate.php for reading
+done
+going to crawl  /GhanaHomePage/cricket/
+Cannot open URL /GhanaHomePage/cricket/ for reading
+done
+going to crawl  /GhanaHomePage/economy/forex.php
+Cannot open URL /GhanaHomePage/economy/forex.php for reading
+done
+going to crawl  /GhanaHomePage/it/cybercafes.php
+Cannot open URL /GhanaHomePage/it/cybercafes.php for reading
+done
+going to crawl  /GhanaHomePage/classifieds/listing.php?CATEGORY=C
+Cannot open URL /GhanaHomePage/classifieds/listing.php?CATEGORY=C for reading
+done
+going to crawl  /GhanaHomePage/general/defence.php
+Cannot open URL /GhanaHomePage/general/defence.php for reading
+done
+going to crawl  /GhanaHomePage/dictionary/
+Cannot open URL /GhanaHomePage/dictionary/ for reading
+done
+going to crawl  /GhanaHomePage/foreign_affairs/abroad.php
+Cannot open URL /GhanaHomePage/foreign_affairs/abroad.php for reading
+done
+going to crawl  /GhanaHomePage/opinions/
+Cannot open URL /GhanaHomePage/opinions/ for reading
+done
+going to crawl  /GhanaHomePage/general/did-u-know.php
+Cannot open URL /GhanaHomePage/general/did-u-know.php for reading
+done
+going to crawl  http://drivingtest.ghanaweb.com/
+Cannot open URL http://drivingtest.ghanaweb.com/ for reading
+done
+going to crawl  /GhanaHomePage/economy/statistics.php
+Cannot open URL /GhanaHomePage/economy/statistics.php for reading
+done
+going to crawl  /GhanaHomePage/education/
+Cannot open URL /GhanaHomePage/education/ for reading
+done
+going to crawl  /GhanaHomePage/election2008/
+Cannot open URL /GhanaHomePage/election2008/ for reading
+done
+going to crawl  /GhanaHomePage/entertainment/
+Cannot open URL /GhanaHomePage/entertainment/ for reading
+done
+going to crawl  /GhanaHomePage/tribes/
+Cannot open URL /GhanaHomePage/tribes/ for reading
+done
+going to crawl  /GhanaHomePage/economy/forex.php
+Cannot open URL /GhanaHomePage/economy/forex.php for reading
+done
+going to crawl  /GhanaHomePage/faq/
+Cannot open URL /GhanaHomePage/faq/ for reading
+done
+going to crawl  /GhanaHomePage/features/
+Cannot open URL /GhanaHomePage/features/ for reading
+done
+going to crawl  /GhanaHomePage/food/
+Cannot open URL /GhanaHomePage/food/ for reading
+done
+going to crawl  /GhanaHomePage/fun/
+Cannot open URL /GhanaHomePage/fun/ for reading
+done
+going to crawl  /GhanaHomePage/games/
+Cannot open URL /GhanaHomePage/games/ for reading
+done
+going to crawl  /GhanaHomePage/country_information/
+Cannot open URL /GhanaHomePage/country_information/ for reading
+done
+going to crawl  /GhanaHomePage/geography/
+Cannot open URL /GhanaHomePage/geography/ for reading
+done
+going to crawl  /GhanaHomePage/golf/
+Cannot open URL /GhanaHomePage/golf/ for reading
+done
+going to crawl  /GhanaHomePage/fun/good_old_days.php
+Cannot open URL /GhanaHomePage/fun/good_old_days.php for reading
+done
+going to crawl  /GhanaHomePage/republic/
+Cannot open URL /GhanaHomePage/republic/ for reading
+done
+going to crawl  /GhanaHomePage/hball/
+Cannot open URL /GhanaHomePage/hball/ for reading
+done
+going to crawl  /GhanaHomePage/health/
+Cannot open URL /GhanaHomePage/health/ for reading
+done
+going to crawl  /GhanaHomePage/history/
+Cannot open URL /GhanaHomePage/history/ for reading
+done
+going to crawl  /GhanaHomePage/hockey/
+Cannot open URL /GhanaHomePage/hockey/ for reading
+done
+going to crawl  http://electroland.ghanaweb.com/
+Cannot open URL http://electroland.ghanaweb.com/ for reading
+done
+going to crawl  /GhanaHomePage/health/hospitals.php
+Cannot open URL /GhanaHomePage/health/hospitals.php for reading
+done
+going to crawl  /GhanaHomePage/tourism/hotels.php
+Cannot open URL /GhanaHomePage/tourism/hotels.php for reading
+done
+going to crawl  /GhanaHomePage/realestate/
+Cannot open URL /GhanaHomePage/realestate/ for reading
+done
+going to crawl  /GhanaHomePage/economy/import_duty.php
+Cannot open URL /GhanaHomePage/economy/import_duty.php for reading
+done
+going to crawl  /GhanaHomePage/general/statistics.php
+Cannot open URL /GhanaHomePage/general/statistics.php for reading
+done
+going to crawl  /GhanaHomePage/it/isp.php
+Cannot open URL /GhanaHomePage/it/isp.php for reading
+done
+going to crawl  /GhanaHomePage/it/cybercafes.php
+Cannot open URL /GhanaHomePage/it/cybercafes.php for reading
+done
+going to crawl  /GhanaHomePage/jobs/
+Cannot open URL /GhanaHomePage/jobs/ for reading
+done
+going to crawl  /GhanaHomePage/fun/jokes.php
+Cannot open URL /GhanaHomePage/fun/jokes.php for reading
+done
+going to crawl  /GhanaHomePage/diaspora/ghanaladies.php
+Cannot open URL /GhanaHomePage/diaspora/ghanaladies.php for reading
+done
+going to crawl  /GhanaHomePage/tribes/languages.php
+Cannot open URL /GhanaHomePage/tribes/languages.php for reading
+done
+going to crawl  /GhanaHomePage/directory/
+Cannot open URL /GhanaHomePage/directory/ for reading
+done
+going to crawl  http://sil.ghanaweb.coml.php
+Cannot open URL http://sil.ghanaweb.coml.php for reading
+done
+going to crawl  /GhanaHomePage/geography/maps.php
+Cannot open URL /GhanaHomePage/geography/maps.php for reading
+done
+going to crawl  /GhanaHomePage/republic/ministers.php
+Cannot open URL /GhanaHomePage/republic/ministers.php for reading
+done
+going to crawl  /GhanaHomePage/republic/ministries.php
+Cannot open URL /GhanaHomePage/republic/ministries.php for reading
+done
+going to crawl  http://mobile.ghanaweb.com/
+Cannot open URL http://mobile.ghanaweb.com/ for reading
+done
+going to crawl  /television/ghana_movies.php
+Cannot open URL /television/ghana_movies.php for reading
+done
+going to crawl  /GhanaHomePage/audio/
+Cannot open URL /GhanaHomePage/audio/ for reading
+done
+going to crawl  /GhanaHomePage/republic/
+Cannot open URL /GhanaHomePage/republic/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/archive.php
+Cannot open URL /GhanaHomePage/NewsArchive/archive.php for reading
+done
+going to crawl  /GhanaHomePage/directory/cat30.html
+Cannot open URL /GhanaHomePage/directory/cat30.html for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/obituaries.php
+Cannot open URL /GhanaHomePage/NewsArchive/obituaries.php for reading
+done
+going to crawl  /GhanaHomePage/religion/bible.php
+Cannot open URL /GhanaHomePage/religion/bible.php for reading
+done
+going to crawl  /GhanaHomePage/foreign_affairs/org.php
+Cannot open URL /GhanaHomePage/foreign_affairs/org.php for reading
+done
+going to crawl  /GhanaHomePage/republic/parliament.php
+Cannot open URL /GhanaHomePage/republic/parliament.php for reading
+done
+going to crawl  /GhanaHomePage/people/
+Cannot open URL /GhanaHomePage/people/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/photo.archive.php
+Cannot open URL /GhanaHomePage/NewsArchive/photo.archive.php for reading
+done
+going to crawl  /GhanaHomePage/republic/polit_hist.php
+Cannot open URL /GhanaHomePage/republic/polit_hist.php for reading
+done
+going to crawl  /GhanaHomePage/republic/party.php
+Cannot open URL /GhanaHomePage/republic/party.php for reading
+done
+going to crawl  /GhanaHomePage/poll/
+Cannot open URL /GhanaHomePage/poll/ for reading
+done
+going to crawl  /GhanaHomePage/republic/president.php
+Cannot open URL /GhanaHomePage/republic/president.php for reading
+done
+going to crawl  /GhanaHomePage/quiz/
+Cannot open URL /GhanaHomePage/quiz/ for reading
+done
+going to crawl  /GhanaHomePage/communication/radio.php
+Cannot open URL /GhanaHomePage/communication/radio.php for reading
+done
+going to crawl  /GhanaHomePage/geography/region.php
+Cannot open URL /GhanaHomePage/geography/region.php for reading
+done
+going to crawl  /GhanaHomePage/religion/
+Cannot open URL /GhanaHomePage/religion/ for reading
+done
+going to crawl  http://sil.ghanaweb.coml.php
+Cannot open URL http://sil.ghanaweb.coml.php for reading
+done
+going to crawl  /GhanaHomePage/technology/
+Cannot open URL /GhanaHomePage/technology/ for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/
+Cannot open URL /GhanaHomePage/SportsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/economy/gse.php
+Cannot open URL /GhanaHomePage/economy/gse.php for reading
+done
+going to crawl  /GhanaHomePage/education/browse2.php
+Cannot open URL /GhanaHomePage/education/browse2.php for reading
+done
+going to crawl  http://maxmart.ghanaweb.com/
+Cannot open URL http://maxmart.ghanaweb.com/ for reading
+done
+going to crawl  /GhanaHomePage/fun/
+Cannot open URL /GhanaHomePage/fun/ for reading
+done
+going to crawl  /GhanaHomePage/communication/
+Cannot open URL /GhanaHomePage/communication/ for reading
+done
+going to crawl  /GhanaHomePage/telephone_directory
+Cannot open URL /GhanaHomePage/telephone_directory for reading
+done
+going to crawl  /GhanaHomePage/communication/television.php
+Cannot open URL /GhanaHomePage/communication/television.php for reading
+done
+going to crawl  /GhanaHomePage/tourism/
+Cannot open URL /GhanaHomePage/tourism/ for reading
+done
+going to crawl  /GhanaHomePage/soccer_transfers/
+Cannot open URL /GhanaHomePage/soccer_transfers/ for reading
+done
+going to crawl  /GhanaHomePage/fun/trotro.php
+Cannot open URL /GhanaHomePage/fun/trotro.php for reading
+done
+going to crawl  /GhanaHomePage/fun/true_stories.php
+Cannot open URL /GhanaHomePage/fun/true_stories.php for reading
+done
+going to crawl  /GhanaHomePage/education/cape.html
+Cannot open URL /GhanaHomePage/education/cape.html for reading
+done
+going to crawl  /GhanaHomePage/education/ust.html
+Cannot open URL /GhanaHomePage/education/ust.html for reading
+done
+going to crawl  /GhanaHomePage/used_cars/
+Cannot open URL /GhanaHomePage/used_cars/ for reading
+done
+going to crawl  /GhanaHomePage/audio/clips.php?cat=0
+Cannot open URL /GhanaHomePage/audio/clips.php?cat=0 for reading
+done
+going to crawl  /GhanaHomePage/tourism/akosombo.php
+Cannot open URL /GhanaHomePage/tourism/akosombo.php for reading
+done
+going to crawl  /GhanaHomePage/directory
+Cannot open URL /GhanaHomePage/directory for reading
+done
+going to crawl  /GhanaHomePage/fun/
+Cannot open URL /GhanaHomePage/fun/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/world.news.php
+Cannot open URL /GhanaHomePage/NewsArchive/world.news.php for reading
+done
+going to crawl  /GhanaHomePage/annual/
+Cannot open URL /GhanaHomePage/annual/ for reading
+done
+going to crawl  http://members.ghanaweb.com/profiles/
+Cannot open URL http://members.ghanaweb.com/profiles/ for reading
+done
+going to crawl  http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7c42476183e&cb=INSERT_RANDOM_NUMBER_HERE
+Cannot open URL http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7c42476183e&cb=INSERT_RANDOM_NUMBER_HERE for reading
+done
+going to crawl  http://www.kingslightchapel.org
+Cannot open URL http://www.kingslightchapel.org for reading
+done
+going to crawl  /GhanaHomePage/jobs/
+Cannot open URL /GhanaHomePage/jobs/ for reading
+done
+going to crawl  http://zummo.ghanaweb.com/
+Cannot open URL http://zummo.ghanaweb.com/ for reading
+done
+going to crawl  http://ugodeal.ghanaweb.com/
+Cannot open URL http://ugodeal.ghanaweb.com/ for reading
+done
+going to crawl  http://electroland.ghanaweb.com
+Cannot open URL http://electroland.ghanaweb.com for reading
+done
+going to crawl  http://maxmart.ghanaweb.com/
+Cannot open URL http://maxmart.ghanaweb.com/ for reading
+done
+going to crawl  /GhanaHomePage/realestate/
+Cannot open URL /GhanaHomePage/realestate/ for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4440
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4440 for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4440
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4440 for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9544
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9544 for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9544
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9544 for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/aboutus.php for reading
+done
+going to crawl  http://www.ghanaweb.com/advertise/
+Cannot open URL http://www.ghanaweb.com/advertise/ for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/ for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+Cannot open URL http://www.ghanaweb.com/GhanaHomePage/sitemap.php for reading
+done
+done
+going to crawl  /primary/_-iyZ5r6D9
+Cannot open URL /primary/_-iyZ5r6D9 for reading
+done
+done
+going to crawl  displaypreference.php?url=www.ghanaweb.com%2F
+Cannot open URL displaypreference.php?url=www.ghanaweb.com%2F for reading
+done
+going to crawl  http://mobile.ghanaweb.com/
+index.php
+news.php
+sports.php
+business.php
+classifieds.php
+galleries.overview.php
+article.php?ID=248132
+article.php?ID=248132
+article.php?ID=248181
+article.php?ID=248180
+article.php?ID=248174
+article.php?ID=248167
+article.php?ID=248158
+article.php?ID=248157
+article.php?ID=248156
+article.php?ID=248153
+article.php?ID=248152
+article.php?ID=248137
+article.php?ID=248133
+article.php?ID=248126
+article.php?ID=248191
+article.php?ID=248191
+article.php?ID=248134
+article.php?ID=248134
+article.php?ID=248191
+article.php?ID=248183
+article.php?ID=248176
+article.php?ID=248165
+article.php?ID=248150
+article.php?ID=248111
+article.php?ID=248187
+article.php?ID=248161
+article.php?ID=248160
+article.php?ID=248159
+article.php?ID=248155
+article.php?ID=248148
+http://www.ghanaweb.com/GhanaHomePage
+index.php
+news.overview.php?cat=6
+news.php
+sports.php
+business.php
+classifieds.php
+galleries.overview.php
+http://www.zebraverkeer.com/ghanawebx/index.do
+live-radio.php
+done
+going to crawl  http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128617a945&cb=INSERT_RANDOM_NUMBER_HERE
+done
+going to crawl  http://members.ghanaweb.com/private/register.php
+displaypreference.php?url=members.ghanaweb.com%2Fprivate%2Fregister.php
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/private/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+update.profile.php
+change.email.php
+change.password.php
+update.dating.profile.php
+delete_account.php
+photos.php
+manage.videos.php
+messages.php
+classifieds.php
+manage.blog.php
+bookmarks.php
+manage.properties.php
+../profiles/
+../classifieds
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+mailto: webmaster@ghanaweb.com?subject=registration-@email
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/private/register.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/private/forgotten.php
+displaypreference.php?url=members.ghanaweb.com%2Fprivate%2Fforgotten.php
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/private/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+update.profile.php
+change.email.php
+change.password.php
+update.dating.profile.php
+delete_account.php
+photos.php
+manage.videos.php
+messages.php
+classifieds.php
+manage.blog.php
+bookmarks.php
+manage.properties.php
+../profiles/
+../classifieds
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128617a945&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/NewsArchive/artikel.php?ID=248153
+/GhanaHomePage/health/artikel.php?ID=248127
+/GhanaHomePage/crime/artikel.php?ID=247978
+/GhanaHomePage/politics/artikel.php?ID=248062
+/GhanaHomePage/regional/artikel.php?ID=247961
+/GhanaHomePage/diaspora/artikel.php?ID=247885
+/GhanaHomePage/religion/artikel.php?ID=248067
+/GhanaHomePage/health/artikel.php?ID=247771
+/GhanaHomePage/SportsArchive/artikel.php?ID=248116
+/GhanaHomePage/athletics/artikel.php?ID=248147
+/GhanaHomePage/cricket/artikel.php?ID=248129
+/GhanaHomePage/SportsArchive/artikel.php?ID=248112
+/GhanaHomePage/realestate/luxury_houses.php?ID=1100
+/GhanaHomePage/business/
+/GhanaHomePage/market/
+/GhanaHomePage/telephone_directory/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/entertainment/
+/GhanaHomePage/audio/clips.php?cat=0&sort=1
+/GhanaHomePage/audio/
+/GhanaHomePage/entertainment/photo.archive.php
+/GhanaHomePage/games/
+/GhanaHomePage/tourism/
+/GhanaHomePage/general/statistics.php
+/GhanaHomePage/republic/
+/GhanaHomePage/people/
+/GhanaHomePage/directory/
+http://sil.ghanaweb.com/
+/GhanaHomePage/features/
+http://discussions.ghanaweb.com/
+/GhanaHomePage/poll/
+/GhanaHomePage/blogs/
+http://members.ghanaweb.com/profiles/profile.php?ID=392939
+http://members.ghanaweb.com/profiles/index.php?country=GH
+http://members.ghanaweb.com/profiles/index.php?country=all
+http://members.ghanaweb.com/private/
+/GhanaHomePage/classifieds/
+http://members.ghanaweb.com/dating/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412c728108e&cb=INSERT_RANDOM_NUMBER_HERE
+/GhanaHomePage/diaspora/
+/GhanaHomePage/features/
+/GhanaHomePage/fun/good_old_days.php
+/GhanaHomePage/fun/true_stories.php
+/GhanaHomePage/athletics/
+/GhanaHomePage/annual/
+/GhanaHomePage/bball/
+/GhanaHomePage/religion/bible.php
+/GhanaHomePage/blackstars/
+/GhanaHomePage/blogs/
+/GhanaHomePage/bookshop/
+/GhanaHomePage/boxing/
+/GhanaHomePage/economy/budget.php
+/GhanaHomePage/business/
+/GhanaHomePage/used_cars/
+/GhanaHomePage/chat/
+/GhanaHomePage/geography/city.php
+/GhanaHomePage/classifieds/
+/GhanaHomePage/geography/climate.php
+/GhanaHomePage/cricket/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/it/cybercafes.php
+/GhanaHomePage/classifieds/listing.php?CATEGORY=C
+/GhanaHomePage/general/defence.php
+/GhanaHomePage/dictionary/
+/GhanaHomePage/foreign_affairs/abroad.php
+/GhanaHomePage/opinions/
+/GhanaHomePage/general/did-u-know.php
+http://drivingtest.ghanaweb.com/
+/GhanaHomePage/economy/statistics.php
+/GhanaHomePage/education/
+/GhanaHomePage/election2008/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/tribes/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/faq/
+/GhanaHomePage/features/
+/GhanaHomePage/food/
+/GhanaHomePage/fun/
+/GhanaHomePage/games/
+/GhanaHomePage/country_information/
+/GhanaHomePage/geography/
+/GhanaHomePage/golf/
+/GhanaHomePage/fun/good_old_days.php
+/GhanaHomePage/republic/
+/GhanaHomePage/hball/
+/GhanaHomePage/health/
+/GhanaHomePage/history/
+/GhanaHomePage/hockey/
+http://electroland.ghanaweb.com/
+/GhanaHomePage/health/hospitals.php
+/GhanaHomePage/tourism/hotels.php
+/GhanaHomePage/realestate/
+/GhanaHomePage/economy/import_duty.php
+/GhanaHomePage/general/statistics.php
+/GhanaHomePage/it/isp.php
+/GhanaHomePage/it/cybercafes.php
+/GhanaHomePage/jobs/
+/GhanaHomePage/fun/jokes.php
+/GhanaHomePage/diaspora/ghanaladies.php
+/GhanaHomePage/tribes/languages.php
+/GhanaHomePage/directory/
+http://sil.ghanaweb.coml.php
+/GhanaHomePage/geography/maps.php
+/GhanaHomePage/republic/ministers.php
+/GhanaHomePage/republic/ministries.php
+http://mobile.ghanaweb.com/
+/television/ghana_movies.php
+/GhanaHomePage/audio/
+/GhanaHomePage/republic/
+/GhanaHomePage/NewsArchive/archive.php
+/GhanaHomePage/directory/cat30.html
+/GhanaHomePage/NewsArchive/obituaries.php
+/GhanaHomePage/religion/bible.php
+/GhanaHomePage/foreign_affairs/org.php
+/GhanaHomePage/republic/parliament.php
+/GhanaHomePage/people/
+/GhanaHomePage/NewsArchive/photo.archive.php
+/GhanaHomePage/republic/polit_hist.php
+/GhanaHomePage/republic/party.php
+/GhanaHomePage/poll/
+/GhanaHomePage/republic/president.php
+/GhanaHomePage/quiz/
+/GhanaHomePage/communication/radio.php
+/GhanaHomePage/geography/region.php
+/GhanaHomePage/religion/
+http://sil.ghanaweb.coml.php
+/GhanaHomePage/technology/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/economy/gse.php
+/GhanaHomePage/education/browse2.php
+http://maxmart.ghanaweb.com/
+/GhanaHomePage/fun/
+/GhanaHomePage/communication/
+/GhanaHomePage/telephone_directory
+/GhanaHomePage/communication/television.php
+/GhanaHomePage/tourism/
+/GhanaHomePage/soccer_transfers/
+/GhanaHomePage/fun/trotro.php
+/GhanaHomePage/fun/true_stories.php
+/GhanaHomePage/education/cape.html
+/GhanaHomePage/education/ust.html
+/GhanaHomePage/used_cars/
+/GhanaHomePage/audio/clips.php?cat=0
+/GhanaHomePage/tourism/akosombo.php
+/GhanaHomePage/directory
+/GhanaHomePage/fun/
+/GhanaHomePage/NewsArchive/world.news.php
+/GhanaHomePage/annual/
+http://members.ghanaweb.com/profiles/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=5011cac3a27a4&cb=INSERT_RANDOM_NUMBER_HERE
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7c42476183e&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.csuc.edu.gh/
+http://www.bbc.co.uk/programmes/p00w940j
+/GhanaHomePage/jobs/
+http://zummo.ghanaweb.com/
+http://ugodeal.ghanaweb.com/
+http://electroland.ghanaweb.com
+http://maxmart.ghanaweb.com/
+/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4423
+http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4423
+http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9546
+http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9546
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/NewsArchive/
+Cannot open URL /GhanaHomePage/NewsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/
+Cannot open URL /GhanaHomePage/SportsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/business/
+Cannot open URL /GhanaHomePage/business/ for reading
+done
+going to crawl  /GhanaHomePage/entertainment/
+Cannot open URL /GhanaHomePage/entertainment/ for reading
+done
+going to crawl  /GhanaHomePage/country_information/
+Cannot open URL /GhanaHomePage/country_information/ for reading
+done
+going to crawl  /GhanaHomePage/opinions/
+Cannot open URL /GhanaHomePage/opinions/ for reading
+done
+going to crawl  http://members.ghanaweb.com/
+displaypreference.php?url=members.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+./profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+./dating/
+./classmates/
+./hometown/
+./private/login.php
+./private/register.php
+profiles/index.php?country=GH
+../profiles/index.php?country=all
+../hometown/
+./classmates/
+./dating/
+private/register.php
+profiles/profile.php?ID=637126
+profiles/profile.php?ID=634033
+profiles/profile.php?ID=634418
+profiles/profile.php?ID=634071
+profiles/profile.php?ID=636325
+profiles/profile.php?ID=636983
+profiles/profile.php?ID=633537
+profiles/profile.php?ID=638498
+profiles/profile.php?ID=639435
+profiles/profile.php?ID=634512
+profiles/profile.php?ID=637286
+profiles/profile.php?ID=635052
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/NewsArchive/
+Cannot open URL /GhanaHomePage/NewsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/
+Cannot open URL /GhanaHomePage/NewsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/artikel.php?ID=248153
+Cannot open URL /GhanaHomePage/NewsArchive/artikel.php?ID=248153 for reading
+done
+going to crawl  /GhanaHomePage/health/artikel.php?ID=248127
+Cannot open URL /GhanaHomePage/health/artikel.php?ID=248127 for reading
+done
+going to crawl  /GhanaHomePage/crime/artikel.php?ID=247978
+Cannot open URL /GhanaHomePage/crime/artikel.php?ID=247978 for reading
+done
+going to crawl  /GhanaHomePage/politics/artikel.php?ID=248062
+Cannot open URL /GhanaHomePage/politics/artikel.php?ID=248062 for reading
+done
+going to crawl  /GhanaHomePage/regional/artikel.php?ID=247961
+Cannot open URL /GhanaHomePage/regional/artikel.php?ID=247961 for reading
+done
+going to crawl  /GhanaHomePage/diaspora/artikel.php?ID=247885
+Cannot open URL /GhanaHomePage/diaspora/artikel.php?ID=247885 for reading
+done
+going to crawl  /GhanaHomePage/religion/artikel.php?ID=248067
+Cannot open URL /GhanaHomePage/religion/artikel.php?ID=248067 for reading
+done
+going to crawl  /GhanaHomePage/health/artikel.php?ID=247771
+Cannot open URL /GhanaHomePage/health/artikel.php?ID=247771 for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/artikel.php?ID=248116
+Cannot open URL /GhanaHomePage/SportsArchive/artikel.php?ID=248116 for reading
+done
+going to crawl  /GhanaHomePage/athletics/artikel.php?ID=248147
+Cannot open URL /GhanaHomePage/athletics/artikel.php?ID=248147 for reading
+done
+going to crawl  /GhanaHomePage/cricket/artikel.php?ID=248129
+Cannot open URL /GhanaHomePage/cricket/artikel.php?ID=248129 for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/artikel.php?ID=248112
+Cannot open URL /GhanaHomePage/SportsArchive/artikel.php?ID=248112 for reading
+done
+going to crawl  /GhanaHomePage/realestate/luxury_houses.php?ID=1100
+Cannot open URL /GhanaHomePage/realestate/luxury_houses.php?ID=1100 for reading
+done
+going to crawl  /GhanaHomePage/business/
+Cannot open URL /GhanaHomePage/business/ for reading
+done
+going to crawl  /GhanaHomePage/market/
+Cannot open URL /GhanaHomePage/market/ for reading
+done
+going to crawl  /GhanaHomePage/telephone_directory/
+Cannot open URL /GhanaHomePage/telephone_directory/ for reading
+done
+going to crawl  /GhanaHomePage/economy/forex.php
+Cannot open URL /GhanaHomePage/economy/forex.php for reading
+done
+going to crawl  /GhanaHomePage/entertainment/
+Cannot open URL /GhanaHomePage/entertainment/ for reading
+done
+going to crawl  /GhanaHomePage/audio/clips.php?cat=0&sort=1
+Cannot open URL /GhanaHomePage/audio/clips.php?cat=0&sort=1 for reading
+done
+going to crawl  /GhanaHomePage/audio/
+Cannot open URL /GhanaHomePage/audio/ for reading
+done
+going to crawl  /GhanaHomePage/entertainment/photo.archive.php
+Cannot open URL /GhanaHomePage/entertainment/photo.archive.php for reading
+done
+going to crawl  /GhanaHomePage/games/
+Cannot open URL /GhanaHomePage/games/ for reading
+done
+going to crawl  /GhanaHomePage/tourism/
+Cannot open URL /GhanaHomePage/tourism/ for reading
+done
+going to crawl  /GhanaHomePage/general/statistics.php
+Cannot open URL /GhanaHomePage/general/statistics.php for reading
+done
+going to crawl  /GhanaHomePage/republic/
+Cannot open URL /GhanaHomePage/republic/ for reading
+done
+going to crawl  /GhanaHomePage/people/
+Cannot open URL /GhanaHomePage/people/ for reading
+done
+going to crawl  /GhanaHomePage/directory/
+Cannot open URL /GhanaHomePage/directory/ for reading
+done
+going to crawl  http://sil.ghanaweb.com/
+online.php
+l.php
+p.php
+s.php
+archive.php
+register.php
+r.php?thread=8215616
+r.php?thread=8215570
+r.php?thread=8215553
+r.php?thread=8215548
+r.php?thread=8215537
+r.php?thread=8215494
+r.php?thread=8215419
+r.php?thread=8215385
+r.php?thread=8215122
+r.php?thread=8215104
+r.php?thread=8215061
+r.php?thread=8215021
+r.php?thread=8214979
+r.php?thread=8214901
+r.php?thread=8214890
+r.php?thread=8214839
+r.php?thread=8214760
+r.php?thread=8214666
+r.php?thread=8214634
+r.php?thread=8214624
+r.php?thread=8214513
+r.php?thread=8214507
+r.php?thread=8214354
+r.php?thread=8214283
+r.php?thread=8214233
+r.php?thread=8214185
+r.php?thread=8214140
+r.php?thread=8214110
+r.php?thread=8214029
+r.php?thread=8213980
+r.php?thread=8213941
+r.php?thread=8213937
+r.php?thread=8213921
+r.php?thread=8213809
+r.php?thread=8213771
+r.php?thread=8213673
+r.php?thread=8213655
+r.php?thread=8213652
+r.php?thread=8213525
+r.php?thread=8213504
+r.php?thread=8213446
+r.php?thread=8213370
+r.php?thread=8213280
+r.php?thread=8213226
+r.php?thread=8213224
+r.php?thread=8213211
+r.php?thread=8213171
+r.php?thread=8213158
+r.php?thread=8213095
+r.php?thread=8213080
+r.php?thread=8212795
+r.php?thread=8212788
+r.php?thread=8212402
+r.php?thread=8212400
+r.php?thread=8212378
+r.php?thread=8212323
+r.php?thread=8212141
+r.php?thread=8212112
+r.php?thread=8211998
+r.php?thread=8211944
+r.php?thread=8211900
+r.php?thread=8211867
+r.php?thread=8211800
+r.php?thread=8211796
+r.php?thread=8211742
+r.php?thread=8211717
+r.php?thread=8211660
+r.php?thread=8211569
+r.php?thread=8211505
+r.php?thread=8211443
+l.php
+p.php
+s.php
+archive.php
+register.php
+l.php?thread=8215616&action=1
+l.php?thread=8211443&action=-1&
+http://www.ghanaweb.com/GhanaHomePage/search.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+http://www.ghanaweb.com/GhanaHomePage/textonly/screenreader.php?l=http://sil.ghanaweb.com//
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?L=http://sil.ghanaweb.com//
+done
+going to crawl  /GhanaHomePage/features/
+Cannot open URL /GhanaHomePage/features/ for reading
+done
+going to crawl  http://discussions.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php
+http://www.ghanaweb.com/GhanaHomePage/directory
+faq.php?sid=f97c966d3bd195f252e68e102414e4b5
+search.php?sid=f97c966d3bd195f252e68e102414e4b5
+memberlist.php?sid=f97c966d3bd195f252e68e102414e4b5
+groupcp.php?sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=register&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=editprofile&amp;sid=f97c966d3bd195f252e68e102414e4b5
+privmsg.php?folder=inbox&amp;sid=f97c966d3bd195f252e68e102414e4b5
+login.php?sid=f97c966d3bd195f252e68e102414e4b5
+http://radio.ghanaweb.com/live-radio.test.php
+index.php?sid=f97c966d3bd195f252e68e102414e4b5
+search.php?search_id=unanswered&amp;sid=f97c966d3bd195f252e68e102414e4b5
+index.php?c=2&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewforum.php?f=2&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=2381&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=4100&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2491887&amp;sid=f97c966d3bd195f252e68e102414e4b5#2491887
+viewforum.php?f=3&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=14982&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2485458&amp;sid=f97c966d3bd195f252e68e102414e4b5#2485458
+viewforum.php?f=10&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=4798&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2491326&amp;sid=f97c966d3bd195f252e68e102414e4b5#2491326
+viewforum.php?f=16&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=21897&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2222708&amp;sid=f97c966d3bd195f252e68e102414e4b5#2222708
+viewforum.php?f=15&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=6501&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2348050&amp;sid=f97c966d3bd195f252e68e102414e4b5#2348050
+index.php?c=3&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewforum.php?f=13&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=5120&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=3351&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2491885&amp;sid=f97c966d3bd195f252e68e102414e4b5#2491885
+viewforum.php?f=5&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=2657&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=180661&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2491297&amp;sid=f97c966d3bd195f252e68e102414e4b5#2491297
+viewforum.php?f=11&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=2657&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=75326&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2491859&amp;sid=f97c966d3bd195f252e68e102414e4b5#2491859
+viewforum.php?f=17&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=5120&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=2591&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2490214&amp;sid=f97c966d3bd195f252e68e102414e4b5#2490214
+viewforum.php?f=7&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=14982&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2448607&amp;sid=f97c966d3bd195f252e68e102414e4b5#2448607
+viewforum.php?f=8&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=112589&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2427577&amp;sid=f97c966d3bd195f252e68e102414e4b5#2427577
+viewforum.php?f=12&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=12183&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2474153&amp;sid=f97c966d3bd195f252e68e102414e4b5#2474153
+viewforum.php?f=4&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=97765&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2438918&amp;sid=f97c966d3bd195f252e68e102414e4b5#2438918
+viewforum.php?f=9&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1370&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=1655&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=170423&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2426866&amp;sid=f97c966d3bd195f252e68e102414e4b5#2426866
+viewforum.php?f=14&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=3351&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewtopic.php?p=2401300&amp;sid=f97c966d3bd195f252e68e102414e4b5#2401300
+index.php?mark=forums&amp;sid=f97c966d3bd195f252e68e102414e4b5
+viewonline.php?sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=182921&amp;sid=f97c966d3bd195f252e68e102414e4b5
+profile.php?mode=viewprofile&amp;u=4100&amp;sid=f97c966d3bd195f252e68e102414e4b5
+http://www.phpbb.com/
+done
+going to crawl  /GhanaHomePage/poll/
+Cannot open URL /GhanaHomePage/poll/ for reading
+done
+going to crawl  /GhanaHomePage/blogs/
+Cannot open URL /GhanaHomePage/blogs/ for reading
+done
+going to crawl  http://members.ghanaweb.com/profiles/profile.php?ID=154090
+displaypreference.php?url=members.ghanaweb.com%2Fprofiles%2Fprofile.php%3FID%3D154090
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/profiles/index.php?country=all
+/profiles/index.php?country=GH
+/profiles/index.php?city=12353
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+../profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+../dating/
+../classmates/
+../hometown/
+../private/login.php
+../private/register.php
+profile.php?ID=154090&mode=public
+profile.php?ID=154090&mode=private
+profile.php?ID=154090&mode=dating
+profile.enlarge_photo.php?ID=154090&PHOTO=44933914
+../private/message.send.php?ID=154090
+index.php?country=GH
+index.php?country=GH&city=12353
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/profiles/profile.php?ID=154090
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/profiles/index.php?country=GH
+displaypreference.php?url=members.ghanaweb.com%2Fprofiles%2Findex.php%3Fcountry%3DGH
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/profiles/index.php?country=all
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+../profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+../dating/
+../classmates/
+../hometown/
+../private/login.php
+../private/register.php
+/profiles/index.php?country=GH&page=2
+/profiles/index.php?country=GH&page=3
+/profiles/index.php?country=GH&page=4
+/profiles/index.php?country=GH&page=5
+/profiles/index.php?country=GH&page=6
+/profiles/index.php?country=GH&page=7
+/profiles/index.php?country=GH&page=100
+/profiles/index.php?country=GH&page=101
+/profiles/index.php?country=GH&page=2
+profile.php?ID=395457
+profile.php?ID=60379
+profile.php?ID=632707
+profile.php?ID=631151
+profile.php?ID=639298
+profile.php?ID=634097
+profile.php?ID=323031
+profile.php?ID=395072
+profile.php?ID=639237
+profile.php?ID=624931
+profile.php?ID=638323
+profile.php?ID=639166
+profile.php?ID=622523
+profile.php?ID=575896
+profile.php?ID=639135
+profile.php?ID=639121
+profile.php?ID=623418
+profile.php?ID=638997
+profile.php?ID=638986
+profile.php?ID=638988
+profile.php?ID=638689
+profile.php?ID=638369
+profile.php?ID=638980
+profile.php?ID=638964
+profile.php?ID=638945
+profile.php?ID=638905
+profile.php?ID=638864
+profile.php?ID=638863
+profile.php?ID=638746
+profile.php?ID=638688
+profile.php?ID=638667
+profile.php?ID=638674
+profile.php?ID=321551
+profile.php?ID=229364
+profile.php?ID=421134
+profile.php?ID=638446
+profile.php?ID=638623
+profile.php?ID=423191
+profile.php?ID=638538
+profile.php?ID=638541
+profile.php?ID=229605
+profile.php?ID=638509
+profile.php?ID=593653
+profile.php?ID=637952
+profile.php?ID=451674
+profile.php?ID=638310
+profile.php?ID=628921
+profile.php?ID=638193
+profile.php?ID=613837
+profile.php?ID=638132
+profile.php?ID=638107
+profile.php?ID=435599
+profile.php?ID=419771
+profile.php?ID=638057
+profile.php?ID=632281
+profile.php?ID=397041
+profile.php?ID=637836
+profile.php?ID=637767
+profile.php?ID=637539
+profile.php?ID=637547
+profile.php?ID=637535
+profile.php?ID=621090
+profile.php?ID=632323
+profile.php?ID=637450
+profile.php?ID=637445
+profile.php?ID=636778
+profile.php?ID=637310
+profile.php?ID=636591
+profile.php?ID=631536
+profile.php?ID=636983
+profile.php?ID=637126
+profile.php?ID=637010
+profile.php?ID=611126
+profile.php?ID=633105
+profile.php?ID=580671
+profile.php?ID=446227
+profile.php?ID=636506
+profile.php?ID=636565
+profile.php?ID=636477
+profile.php?ID=636373
+profile.php?ID=636325
+profile.php?ID=422669
+profile.php?ID=636112
+profile.php?ID=635590
+profile.php?ID=636019
+profile.php?ID=400627
+profile.php?ID=635961
+profile.php?ID=408270
+profile.php?ID=324832
+profile.php?ID=633306
+profile.php?ID=612119
+profile.php?ID=626169
+profile.php?ID=635395
+profile.php?ID=634590
+profile.php?ID=595716
+profile.php?ID=634512
+profile.php?ID=634458
+profile.php?ID=232962
+profile.php?ID=619727
+profile.php?ID=404378
+profile.php?ID=634396
+profile.php?ID=634377
+profile.php?ID=323585
+profile.php?ID=634265
+profile.php?ID=634305
+profile.php?ID=634279
+profile.php?ID=634258
+profile.php?ID=633436
+profile.php?ID=407667
+profile.php?ID=634131
+profile.php?ID=442432
+profile.php?ID=567704
+profile.php?ID=633192
+profile.php?ID=634066
+profile.php?ID=634071
+profile.php?ID=634050
+profile.php?ID=624816
+profile.php?ID=614404
+profile.php?ID=634024
+profile.php?ID=634033
+profile.php?ID=615619
+profile.php?ID=389817
+profile.php?ID=633989
+profile.php?ID=612485
+profile.php?ID=628673
+profile.php?ID=633613
+profile.php?ID=633874
+profile.php?ID=419682
+profile.php?ID=403252
+profile.php?ID=633633
+profile.php?ID=633701
+profile.php?ID=633650
+profile.php?ID=633592
+profile.php?ID=412298
+profile.php?ID=125113
+profile.php?ID=633491
+profile.php?ID=633471
+profile.php?ID=633463
+profile.php?ID=633450
+profile.php?ID=633421
+profile.php?ID=633422
+profile.php?ID=633387
+profile.php?ID=633371
+profile.php?ID=633330
+profile.php?ID=631602
+profile.php?ID=633297
+profile.php?ID=633276
+profile.php?ID=397199
+profile.php?ID=633262
+profile.php?ID=383395
+profile.php?ID=633244
+profile.php?ID=633241
+profile.php?ID=633210
+profile.php?ID=633202
+profile.php?ID=633167
+profile.php?ID=410257
+profile.php?ID=618076
+profile.php?ID=633139
+profile.php?ID=633140
+profile.php?ID=618260
+/profiles/index.php?country=GH&page=2
+/profiles/index.php?country=GH&page=3
+/profiles/index.php?country=GH&page=4
+/profiles/index.php?country=GH&page=5
+/profiles/index.php?country=GH&page=6
+/profiles/index.php?country=GH&page=7
+/profiles/index.php?country=GH&page=100
+/profiles/index.php?country=GH&page=101
+/profiles/index.php?country=GH&page=2
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/profiles/index.php?country=GH
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/profiles/index.php?country=all
+displaypreference.php?url=members.ghanaweb.com%2Fprofiles%2Findex.php%3Fcountry%3Dall
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+../profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+../dating/
+../classmates/
+../hometown/
+../private/login.php
+../private/register.php
+/profiles/index.php?country=all&page=2
+/profiles/index.php?country=all&page=3
+/profiles/index.php?country=all&page=4
+/profiles/index.php?country=all&page=5
+/profiles/index.php?country=all&page=6
+/profiles/index.php?country=all&page=7
+/profiles/index.php?country=all&page=188
+/profiles/index.php?country=all&page=189
+/profiles/index.php?country=all&page=2
+profile.php?ID=639505
+profile.php?ID=395457
+profile.php?ID=639435
+profile.php?ID=60379
+profile.php?ID=632707
+profile.php?ID=639181
+profile.php?ID=631151
+profile.php?ID=639298
+profile.php?ID=634097
+profile.php?ID=323031
+profile.php?ID=395072
+profile.php?ID=639242
+profile.php?ID=639237
+profile.php?ID=624931
+profile.php?ID=638323
+profile.php?ID=622745
+profile.php?ID=639164
+profile.php?ID=639166
+profile.php?ID=639158
+profile.php?ID=622523
+profile.php?ID=575896
+profile.php?ID=639135
+profile.php?ID=639121
+profile.php?ID=639128
+profile.php?ID=639094
+profile.php?ID=639014
+profile.php?ID=623418
+profile.php?ID=638997
+profile.php?ID=638986
+profile.php?ID=638988
+profile.php?ID=429677
+profile.php?ID=638689
+profile.php?ID=638369
+profile.php?ID=638980
+profile.php?ID=638964
+profile.php?ID=638945
+profile.php?ID=454641
+profile.php?ID=638930
+profile.php?ID=638905
+profile.php?ID=638693
+profile.php?ID=638883
+profile.php?ID=110599
+profile.php?ID=638864
+profile.php?ID=638863
+profile.php?ID=638401
+profile.php?ID=638850
+profile.php?ID=638787
+profile.php?ID=638746
+profile.php?ID=404702
+profile.php?ID=638757
+profile.php?ID=637195
+profile.php?ID=75463
+profile.php?ID=638688
+profile.php?ID=638667
+profile.php?ID=638674
+profile.php?ID=321551
+profile.php?ID=229364
+profile.php?ID=638663
+profile.php?ID=421134
+profile.php?ID=638446
+profile.php?ID=638623
+profile.php?ID=423191
+profile.php?ID=638538
+profile.php?ID=633787
+profile.php?ID=13846
+profile.php?ID=638541
+profile.php?ID=229605
+profile.php?ID=638509
+profile.php?ID=593653
+profile.php?ID=638511
+profile.php?ID=638498
+profile.php?ID=637952
+profile.php?ID=451674
+profile.php?ID=638365
+profile.php?ID=638310
+profile.php?ID=638283
+profile.php?ID=634074
+profile.php?ID=637985
+profile.php?ID=638244
+profile.php?ID=628921
+profile.php?ID=601741
+profile.php?ID=638193
+profile.php?ID=289840
+profile.php?ID=638200
+profile.php?ID=54250
+profile.php?ID=613837
+profile.php?ID=638132
+profile.php?ID=638121
+profile.php?ID=638117
+profile.php?ID=638107
+profile.php?ID=435599
+profile.php?ID=568900
+profile.php?ID=419771
+profile.php?ID=638057
+profile.php?ID=638004
+profile.php?ID=613893
+profile.php?ID=374662
+profile.php?ID=632281
+profile.php?ID=637941
+profile.php?ID=637727
+profile.php?ID=397041
+profile.php?ID=637869
+profile.php?ID=429240
+profile.php?ID=637836
+profile.php?ID=637818
+profile.php?ID=637767
+profile.php?ID=637719
+profile.php?ID=637707
+profile.php?ID=630251
+profile.php?ID=432664
+profile.php?ID=449064
+profile.php?ID=637639
+profile.php?ID=624986
+profile.php?ID=637619
+profile.php?ID=637601
+profile.php?ID=637539
+profile.php?ID=637555
+profile.php?ID=637547
+profile.php?ID=637535
+profile.php?ID=637531
+profile.php?ID=621090
+profile.php?ID=637502
+profile.php?ID=632323
+profile.php?ID=637479
+profile.php?ID=637463
+profile.php?ID=637453
+profile.php?ID=637450
+profile.php?ID=637445
+profile.php?ID=637333
+profile.php?ID=636844
+profile.php?ID=637406
+profile.php?ID=632827
+profile.php?ID=200472
+profile.php?ID=637348
+profile.php?ID=636778
+profile.php?ID=637330
+profile.php?ID=637316
+profile.php?ID=637310
+profile.php?ID=636591
+profile.php?ID=637286
+profile.php?ID=631536
+profile.php?ID=636962
+profile.php?ID=636763
+profile.php?ID=636983
+profile.php?ID=637173
+profile.php?ID=635713
+profile.php?ID=637126
+profile.php?ID=637109
+profile.php?ID=637025
+profile.php?ID=637057
+profile.php?ID=637010
+profile.php?ID=611126
+profile.php?ID=633105
+profile.php?ID=14919
+profile.php?ID=580671
+profile.php?ID=633955
+profile.php?ID=636673
+profile.php?ID=446227
+profile.php?ID=636506
+profile.php?ID=622486
+/profiles/index.php?country=all&page=2
+/profiles/index.php?country=all&page=3
+/profiles/index.php?country=all&page=4
+/profiles/index.php?country=all&page=5
+/profiles/index.php?country=all&page=6
+/profiles/index.php?country=all&page=7
+/profiles/index.php?country=all&page=188
+/profiles/index.php?country=all&page=189
+/profiles/index.php?country=all&page=2
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/profiles/index.php?country=all
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://members.ghanaweb.com/private/
+displaypreference.php?url=members.ghanaweb.com%2Fprivate%2Flogin.php%3Fstarturl%3Dmembers.ghanaweb.com%252Fprivate%252F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+/private/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+update.profile.php
+change.email.php
+change.password.php
+update.dating.profile.php
+delete_account.php
+photos.php
+manage.videos.php
+messages.php
+classifieds.php
+manage.blog.php
+bookmarks.php
+manage.properties.php
+../profiles/
+../classifieds
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+register.php?starturl=members.ghanaweb.com/private/
+forgotten.php?starturl=members.ghanaweb.com/private/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/private/login.php?starturl=members.ghanaweb.com%2Fprivate%2F
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/classifieds/
+Cannot open URL /GhanaHomePage/classifieds/ for reading
+done
+going to crawl  http://members.ghanaweb.com/dating/
+http://ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+https://dating.ghanaweb.com/Login
+#
+/terms?chrome=false
+http://ghanaweb.com
+/about
+/tips
+/faq
+/contact
+/terms
+/privacy
+http://worldsingles.com
+http://www.ghanaweb.com/advertise
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412c728108e&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+http://www.facebook.com/vodafoneghana
+/l.php?u=http%3A%2F%2Fwww.vodafone.com.gh&amp;h=iAQHcjnzd&amp;s=1
+http://www.facebook.com/DBanjOfficial
+http://www.facebook.com/pages/R2BEES/93042650789
+http://www.facebook.com/pages/Quame-Junior/113796178697550
+http://www.facebook.com/vodafonehealthline
+http://www.facebook.com/pages/Dbanj/109462295740072
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/photo.php?fbid=511545958860165&amp;set=a.177308745617223.49289.150534708294627&amp;type=1&amp;relevant_count=1
+http://www.facebook.com/MarginsIDSystems
+/browse/likes/?id=511545958860165
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/photo.php?fbid=511442118870549&amp;set=a.177308745617223.49289.150534708294627&amp;type=1&amp;relevant_count=1
+/browse/likes/?id=511442118870549
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/godwintette
+http://www.facebook.com/SirAttom
+/browse/likes/?id=510671048947656
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/photo.php?fbid=510288458985915&amp;set=a.410646818950080.114314.150534708294627&amp;type=1
+http://www.facebook.com/TONY.DANAPOLI
+http://www.facebook.com/brightgavu
+/browse/likes/?id=510288458985915
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/akilade.ayotunde.3
+http://www.facebook.com/samuel.abankwayeboah
+/browse/likes/?id=509856215695806
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/phelyx.quaye
+http://www.facebook.com/mawulis
+/browse/likes/?id=509485782399516
+http://www.facebook.com/charleslace23
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/photo.php?fbid=509184965762931&amp;set=a.177308745617223.49289.150534708294627&amp;type=1&amp;relevant_count=1
+http://www.facebook.com/pages/StudentspointNews/288212681211789
+/browse/likes/?id=509184965762931
+http://www.facebook.com/vodafoneghana
+http://www.facebook.com/zai.fc.1
+http://www.facebook.com/phelyx.quaye
+/browse/likes/?id=509051302442964
+/vodafoneghana/timeline
+/vodafoneghana/timeline/2012/7
+/vodafoneghana/timeline/2012
+/vodafoneghana/timeline/2012/6
+/vodafoneghana/timeline/2012/5
+/vodafoneghana/timeline/2012/4
+/vodafoneghana/timeline/2012/3
+/vodafoneghana/timeline/2012/2
+/vodafoneghana/timeline/2012/1
+/vodafoneghana/timeline/2011
+/vodafoneghana/timeline/2011/12
+/vodafoneghana/timeline/2011/11
+/vodafoneghana/timeline/2011/10
+/vodafoneghana/timeline/2011/9
+/vodafoneghana/timeline/2011/8
+/vodafoneghana/timeline/2011/7
+/vodafoneghana/timeline/2011/6
+/vodafoneghana/timeline/2011/5
+/vodafoneghana/timeline/2011/4
+/vodafoneghana/timeline/2011/3
+/vodafoneghana/timeline/2011/2
+/vodafoneghana/timeline/2011/1
+/vodafoneghana/timeline/2010
+/vodafoneghana/timeline/2010/12
+/vodafoneghana/timeline/2010/11
+/vodafoneghana/timeline/2010/10
+/vodafoneghana/timeline/2010/9
+/vodafoneghana/timeline/2010/8
+/vodafoneghana/timeline/2010/7
+/vodafoneghana/timeline/2010/6
+/vodafoneghana/timeline/2010/5
+/vodafoneghana/timeline/2010/4
+/vodafoneghana/timeline/2010/3
+/vodafoneghana/timeline/2010/2
+/vodafoneghana/timeline/2010/1
+/vodafoneghana/timeline/2009
+/vodafoneghana/timeline/2009/12
+/vodafoneghana/timeline/2009/11
+/vodafoneghana/timeline/2009/10
+/vodafoneghana/timeline/2009/9
+/vodafoneghana/timeline/2009/8
+/vodafoneghana/timeline/2009/7
+/vodafoneghana/timeline/2009/6
+/vodafoneghana/timeline/2009/5
+/vodafoneghana/timeline/2009/4
+/vodafoneghana/timeline/2009/3
+/vodafoneghana/timeline/2009/2
+/vodafoneghana/timeline/2009/1
+done
+going to crawl  /GhanaHomePage/diaspora/
+Cannot open URL /GhanaHomePage/diaspora/ for reading
+done
+going to crawl  /GhanaHomePage/features/
+Cannot open URL /GhanaHomePage/features/ for reading
+done
+going to crawl  /GhanaHomePage/fun/good_old_days.php
+Cannot open URL /GhanaHomePage/fun/good_old_days.php for reading
+done
+going to crawl  /GhanaHomePage/fun/true_stories.php
+Cannot open URL /GhanaHomePage/fun/true_stories.php for reading
+done
+going to crawl  /GhanaHomePage/athletics/
+Cannot open URL /GhanaHomePage/athletics/ for reading
+done
+going to crawl  /GhanaHomePage/annual/
+Cannot open URL /GhanaHomePage/annual/ for reading
+done
+going to crawl  /GhanaHomePage/bball/
+Cannot open URL /GhanaHomePage/bball/ for reading
+done
+going to crawl  /GhanaHomePage/religion/bible.php
+Cannot open URL /GhanaHomePage/religion/bible.php for reading
+done
+going to crawl  /GhanaHomePage/blackstars/
+Cannot open URL /GhanaHomePage/blackstars/ for reading
+done
+going to crawl  /GhanaHomePage/blogs/
+Cannot open URL /GhanaHomePage/blogs/ for reading
+done
+going to crawl  /GhanaHomePage/bookshop/
+Cannot open URL /GhanaHomePage/bookshop/ for reading
+done
+going to crawl  /GhanaHomePage/boxing/
+Cannot open URL /GhanaHomePage/boxing/ for reading
+done
+going to crawl  /GhanaHomePage/economy/budget.php
+Cannot open URL /GhanaHomePage/economy/budget.php for reading
+done
+going to crawl  /GhanaHomePage/business/
+Cannot open URL /GhanaHomePage/business/ for reading
+done
+going to crawl  /GhanaHomePage/used_cars/
+Cannot open URL /GhanaHomePage/used_cars/ for reading
+done
+going to crawl  /GhanaHomePage/chat/
+Cannot open URL /GhanaHomePage/chat/ for reading
+done
+going to crawl  /GhanaHomePage/geography/city.php
+Cannot open URL /GhanaHomePage/geography/city.php for reading
+done
+going to crawl  /GhanaHomePage/classifieds/
+Cannot open URL /GhanaHomePage/classifieds/ for reading
+done
+going to crawl  /GhanaHomePage/geography/climate.php
+Cannot open URL /GhanaHomePage/geography/climate.php for reading
+done
+going to crawl  /GhanaHomePage/cricket/
+Cannot open URL /GhanaHomePage/cricket/ for reading
+done
+going to crawl  /GhanaHomePage/economy/forex.php
+Cannot open URL /GhanaHomePage/economy/forex.php for reading
+done
+going to crawl  /GhanaHomePage/it/cybercafes.php
+Cannot open URL /GhanaHomePage/it/cybercafes.php for reading
+done
+going to crawl  /GhanaHomePage/classifieds/listing.php?CATEGORY=C
+Cannot open URL /GhanaHomePage/classifieds/listing.php?CATEGORY=C for reading
+done
+going to crawl  /GhanaHomePage/general/defence.php
+Cannot open URL /GhanaHomePage/general/defence.php for reading
+done
+going to crawl  /GhanaHomePage/dictionary/
+Cannot open URL /GhanaHomePage/dictionary/ for reading
+done
+going to crawl  /GhanaHomePage/foreign_affairs/abroad.php
+Cannot open URL /GhanaHomePage/foreign_affairs/abroad.php for reading
+done
+going to crawl  /GhanaHomePage/opinions/
+Cannot open URL /GhanaHomePage/opinions/ for reading
+done
+going to crawl  /GhanaHomePage/general/did-u-know.php
+Cannot open URL /GhanaHomePage/general/did-u-know.php for reading
+done
+going to crawl  http://drivingtest.ghanaweb.com/
+displaypreference.php?url=drivingtest.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7d8c7d9a2ce&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+starttest.php?op=genpro_showone&pro_id=9310&mode=1
+driving_theory.php#general
+driving_theory.php#defensive_driving
+driving_theory.php#emergency
+driving_theory.php#lines_and_lanes
+driving_theory.php#overtaking
+driving_theory.php#road_junctions
+driving_theory.php#roundabouts
+driving_theory.php#reversing
+driving_theory.php#lights
+driving_theory.php#waiting_and_parking
+driving_theory.php#breakdowns_and_accidents
+driving_theory.php#motorways
+driving_theory.php#railway_level_crossings
+http://www.dvlaghana.gov.gh/pub/
+http://www.mrt.gov.gh/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412c053ca48&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=drivingtest.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/economy/statistics.php
+Cannot open URL /GhanaHomePage/economy/statistics.php for reading
+done
+going to crawl  /GhanaHomePage/education/
+Cannot open URL /GhanaHomePage/education/ for reading
+done
+going to crawl  /GhanaHomePage/election2008/
+Cannot open URL /GhanaHomePage/election2008/ for reading
+done
+going to crawl  /GhanaHomePage/entertainment/
+Cannot open URL /GhanaHomePage/entertainment/ for reading
+done
+going to crawl  /GhanaHomePage/tribes/
+Cannot open URL /GhanaHomePage/tribes/ for reading
+done
+going to crawl  /GhanaHomePage/economy/forex.php
+Cannot open URL /GhanaHomePage/economy/forex.php for reading
+done
+going to crawl  /GhanaHomePage/faq/
+Cannot open URL /GhanaHomePage/faq/ for reading
+done
+going to crawl  /GhanaHomePage/features/
+Cannot open URL /GhanaHomePage/features/ for reading
+done
+going to crawl  /GhanaHomePage/food/
+Cannot open URL /GhanaHomePage/food/ for reading
+done
+going to crawl  /GhanaHomePage/fun/
+Cannot open URL /GhanaHomePage/fun/ for reading
+done
+going to crawl  /GhanaHomePage/games/
+Cannot open URL /GhanaHomePage/games/ for reading
+done
+going to crawl  /GhanaHomePage/country_information/
+Cannot open URL /GhanaHomePage/country_information/ for reading
+done
+going to crawl  /GhanaHomePage/geography/
+Cannot open URL /GhanaHomePage/geography/ for reading
+done
+going to crawl  /GhanaHomePage/golf/
+Cannot open URL /GhanaHomePage/golf/ for reading
+done
+going to crawl  /GhanaHomePage/fun/good_old_days.php
+Cannot open URL /GhanaHomePage/fun/good_old_days.php for reading
+done
+going to crawl  /GhanaHomePage/republic/
+Cannot open URL /GhanaHomePage/republic/ for reading
+done
+going to crawl  /GhanaHomePage/hball/
+Cannot open URL /GhanaHomePage/hball/ for reading
+done
+going to crawl  /GhanaHomePage/health/
+Cannot open URL /GhanaHomePage/health/ for reading
+done
+going to crawl  /GhanaHomePage/history/
+Cannot open URL /GhanaHomePage/history/ for reading
+done
+going to crawl  /GhanaHomePage/hockey/
+Cannot open URL /GhanaHomePage/hockey/ for reading
+done
+going to crawl  http://electroland.ghanaweb.com/
+displaypreference.php?url=electroland.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://electroland.ghanaweb.com
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+samsung_ghana_electroland.php
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=I
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=H
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=J
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=M
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=N
+http://www.ghanaweb.com/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/trucks/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/jobs/
+http://www.ghanaweb.com/GhanaHomePage/bookshop/
+http://www.samsung.com/africa_en/consumer/home-appliances/air-conditioner
+http://www.samsung.com/africa_en/consumer/tv-audio-video/home-theatre
+http://www.samsung.com/africa_en/consumer/home-appliances/microwave-oven
+http://www.samsung.com/africa_en/consumer/home-appliances/washing-machine
+http://www.samsung.com/africa_en/consumer/tv-audio-video/television
+http://www.samsung.com/africa_en/consumer/home-appliances/refrigerator
+#
+#
+#
+#
+#
+#
+#
+#
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=electroland.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/health/hospitals.php
+Cannot open URL /GhanaHomePage/health/hospitals.php for reading
+done
+going to crawl  /GhanaHomePage/tourism/hotels.php
+Cannot open URL /GhanaHomePage/tourism/hotels.php for reading
+done
+going to crawl  /GhanaHomePage/realestate/
+Cannot open URL /GhanaHomePage/realestate/ for reading
+done
+going to crawl  /GhanaHomePage/economy/import_duty.php
+Cannot open URL /GhanaHomePage/economy/import_duty.php for reading
+done
+going to crawl  /GhanaHomePage/general/statistics.php
+Cannot open URL /GhanaHomePage/general/statistics.php for reading
+done
+going to crawl  /GhanaHomePage/it/isp.php
+Cannot open URL /GhanaHomePage/it/isp.php for reading
+done
+going to crawl  /GhanaHomePage/it/cybercafes.php
+Cannot open URL /GhanaHomePage/it/cybercafes.php for reading
+done
+going to crawl  /GhanaHomePage/jobs/
+Cannot open URL /GhanaHomePage/jobs/ for reading
+done
+going to crawl  /GhanaHomePage/fun/jokes.php
+Cannot open URL /GhanaHomePage/fun/jokes.php for reading
+done
+going to crawl  /GhanaHomePage/diaspora/ghanaladies.php
+Cannot open URL /GhanaHomePage/diaspora/ghanaladies.php for reading
+done
+going to crawl  /GhanaHomePage/tribes/languages.php
+Cannot open URL /GhanaHomePage/tribes/languages.php for reading
+done
+going to crawl  /GhanaHomePage/directory/
+Cannot open URL /GhanaHomePage/directory/ for reading
+done
+going to crawl  http://sil.ghanaweb.coml.php
+Cannot open URL http://sil.ghanaweb.coml.php for reading
+done
+going to crawl  /GhanaHomePage/geography/maps.php
+Cannot open URL /GhanaHomePage/geography/maps.php for reading
+done
+going to crawl  /GhanaHomePage/republic/ministers.php
+Cannot open URL /GhanaHomePage/republic/ministers.php for reading
+done
+going to crawl  /GhanaHomePage/republic/ministries.php
+Cannot open URL /GhanaHomePage/republic/ministries.php for reading
+done
+going to crawl  http://mobile.ghanaweb.com/
+index.php
+news.php
+sports.php
+business.php
+classifieds.php
+galleries.overview.php
+article.php?ID=248132
+article.php?ID=248132
+article.php?ID=248181
+article.php?ID=248180
+article.php?ID=248174
+article.php?ID=248167
+article.php?ID=248158
+article.php?ID=248157
+article.php?ID=248156
+article.php?ID=248153
+article.php?ID=248152
+article.php?ID=248137
+article.php?ID=248133
+article.php?ID=248126
+article.php?ID=248191
+article.php?ID=248191
+article.php?ID=248134
+article.php?ID=248134
+article.php?ID=248191
+article.php?ID=248183
+article.php?ID=248176
+article.php?ID=248165
+article.php?ID=248150
+article.php?ID=248111
+article.php?ID=248187
+article.php?ID=248161
+article.php?ID=248160
+article.php?ID=248159
+article.php?ID=248155
+article.php?ID=248148
+http://www.ghanaweb.com/GhanaHomePage
+index.php
+news.overview.php?cat=6
+news.php
+sports.php
+business.php
+classifieds.php
+galleries.overview.php
+http://www.zebraverkeer.com/ghanawebx/index.do
+live-radio.php
+done
+going to crawl  /television/ghana_movies.php
+Cannot open URL /television/ghana_movies.php for reading
+done
+going to crawl  /GhanaHomePage/audio/
+Cannot open URL /GhanaHomePage/audio/ for reading
+done
+going to crawl  /GhanaHomePage/republic/
+Cannot open URL /GhanaHomePage/republic/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/archive.php
+Cannot open URL /GhanaHomePage/NewsArchive/archive.php for reading
+done
+going to crawl  /GhanaHomePage/directory/cat30.html
+Cannot open URL /GhanaHomePage/directory/cat30.html for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/obituaries.php
+Cannot open URL /GhanaHomePage/NewsArchive/obituaries.php for reading
+done
+going to crawl  /GhanaHomePage/religion/bible.php
+Cannot open URL /GhanaHomePage/religion/bible.php for reading
+done
+going to crawl  /GhanaHomePage/foreign_affairs/org.php
+Cannot open URL /GhanaHomePage/foreign_affairs/org.php for reading
+done
+going to crawl  /GhanaHomePage/republic/parliament.php
+Cannot open URL /GhanaHomePage/republic/parliament.php for reading
+done
+going to crawl  /GhanaHomePage/people/
+Cannot open URL /GhanaHomePage/people/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/photo.archive.php
+Cannot open URL /GhanaHomePage/NewsArchive/photo.archive.php for reading
+done
+going to crawl  /GhanaHomePage/republic/polit_hist.php
+Cannot open URL /GhanaHomePage/republic/polit_hist.php for reading
+done
+going to crawl  /GhanaHomePage/republic/party.php
+Cannot open URL /GhanaHomePage/republic/party.php for reading
+done
+going to crawl  /GhanaHomePage/poll/
+Cannot open URL /GhanaHomePage/poll/ for reading
+done
+going to crawl  /GhanaHomePage/republic/president.php
+Cannot open URL /GhanaHomePage/republic/president.php for reading
+done
+going to crawl  /GhanaHomePage/quiz/
+Cannot open URL /GhanaHomePage/quiz/ for reading
+done
+going to crawl  /GhanaHomePage/communication/radio.php
+Cannot open URL /GhanaHomePage/communication/radio.php for reading
+done
+going to crawl  /GhanaHomePage/geography/region.php
+Cannot open URL /GhanaHomePage/geography/region.php for reading
+done
+going to crawl  /GhanaHomePage/religion/
+Cannot open URL /GhanaHomePage/religion/ for reading
+done
+going to crawl  http://sil.ghanaweb.coml.php
+Cannot open URL http://sil.ghanaweb.coml.php for reading
+done
+going to crawl  /GhanaHomePage/technology/
+Cannot open URL /GhanaHomePage/technology/ for reading
+done
+going to crawl  /GhanaHomePage/SportsArchive/
+Cannot open URL /GhanaHomePage/SportsArchive/ for reading
+done
+going to crawl  /GhanaHomePage/economy/gse.php
+Cannot open URL /GhanaHomePage/economy/gse.php for reading
+done
+going to crawl  /GhanaHomePage/education/browse2.php
+Cannot open URL /GhanaHomePage/education/browse2.php for reading
+done
+going to crawl  http://maxmart.ghanaweb.com/
+displaypreference.php?url=maxmart.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7d8c7d9a2ce&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+index.php
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=I
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=H
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=J
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=M
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=N
+http://www.ghanaweb.com/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/trucks/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/jobs/
+http://www.ghanaweb.com/GhanaHomePage/bookshop/
+http://www.maxmartghana.com
+http://www.maxmartghana.com/services.html
+casino-brand.pdf
+car-promotion.pdf
+car-promotion.pdf
+glassware.php
+glassware.php
+groceries.php
+electricals.php
+http://www.maxmartghana.com
+http://www.maxmartghana.com
+http://www.maxmartghana.com
+http://www.maxmartghana.com
+lifestyle.php
+mailto:maxmart@maxmartghana.com
+http://www.maxmartghana.com
+maxmart_shop_ghana.php
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=maxmart.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/fun/
+Cannot open URL /GhanaHomePage/fun/ for reading
+done
+going to crawl  /GhanaHomePage/communication/
+Cannot open URL /GhanaHomePage/communication/ for reading
+done
+going to crawl  /GhanaHomePage/telephone_directory
+Cannot open URL /GhanaHomePage/telephone_directory for reading
+done
+going to crawl  /GhanaHomePage/communication/television.php
+Cannot open URL /GhanaHomePage/communication/television.php for reading
+done
+going to crawl  /GhanaHomePage/tourism/
+Cannot open URL /GhanaHomePage/tourism/ for reading
+done
+going to crawl  /GhanaHomePage/soccer_transfers/
+Cannot open URL /GhanaHomePage/soccer_transfers/ for reading
+done
+going to crawl  /GhanaHomePage/fun/trotro.php
+Cannot open URL /GhanaHomePage/fun/trotro.php for reading
+done
+going to crawl  /GhanaHomePage/fun/true_stories.php
+Cannot open URL /GhanaHomePage/fun/true_stories.php for reading
+done
+going to crawl  /GhanaHomePage/education/cape.html
+Cannot open URL /GhanaHomePage/education/cape.html for reading
+done
+going to crawl  /GhanaHomePage/education/ust.html
+Cannot open URL /GhanaHomePage/education/ust.html for reading
+done
+going to crawl  /GhanaHomePage/used_cars/
+Cannot open URL /GhanaHomePage/used_cars/ for reading
+done
+going to crawl  /GhanaHomePage/audio/clips.php?cat=0
+Cannot open URL /GhanaHomePage/audio/clips.php?cat=0 for reading
+done
+going to crawl  /GhanaHomePage/tourism/akosombo.php
+Cannot open URL /GhanaHomePage/tourism/akosombo.php for reading
+done
+going to crawl  /GhanaHomePage/directory
+Cannot open URL /GhanaHomePage/directory for reading
+done
+going to crawl  /GhanaHomePage/fun/
+Cannot open URL /GhanaHomePage/fun/ for reading
+done
+going to crawl  /GhanaHomePage/NewsArchive/world.news.php
+Cannot open URL /GhanaHomePage/NewsArchive/world.news.php for reading
+done
+going to crawl  /GhanaHomePage/annual/
+Cannot open URL /GhanaHomePage/annual/ for reading
+done
+going to crawl  http://members.ghanaweb.com/profiles/
+displaypreference.php?url=members.ghanaweb.com%2Fprofiles%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4127167ecb1&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://members.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+../profiles/
+http://www.ghanaweb.com/GhanaHomePage/classifieds/
+http://www.ghanaweb.com/GhanaHomePage/chat/
+../dating/
+../classmates/
+../hometown/
+../private/login.php
+../private/register.php
+/profiles/?page=2
+/profiles/?page=3
+/profiles/?page=4
+/profiles/?page=5
+/profiles/?page=6
+/profiles/?page=7
+/profiles/?page=188
+/profiles/?page=189
+/profiles/?page=2
+profile.php?ID=639505
+profile.php?ID=395457
+profile.php?ID=639435
+profile.php?ID=60379
+profile.php?ID=632707
+profile.php?ID=639181
+profile.php?ID=631151
+profile.php?ID=639298
+profile.php?ID=634097
+profile.php?ID=323031
+profile.php?ID=395072
+profile.php?ID=639242
+profile.php?ID=639237
+profile.php?ID=624931
+profile.php?ID=638323
+profile.php?ID=622745
+profile.php?ID=639164
+profile.php?ID=639166
+profile.php?ID=639158
+profile.php?ID=622523
+profile.php?ID=575896
+profile.php?ID=639135
+profile.php?ID=639121
+profile.php?ID=639128
+profile.php?ID=639094
+profile.php?ID=639014
+profile.php?ID=623418
+profile.php?ID=638997
+profile.php?ID=638986
+profile.php?ID=638988
+profile.php?ID=429677
+profile.php?ID=638689
+profile.php?ID=638369
+profile.php?ID=638980
+profile.php?ID=638964
+profile.php?ID=638945
+profile.php?ID=454641
+profile.php?ID=638930
+profile.php?ID=638905
+profile.php?ID=638693
+profile.php?ID=638883
+profile.php?ID=110599
+profile.php?ID=638864
+profile.php?ID=638863
+profile.php?ID=638401
+profile.php?ID=638850
+profile.php?ID=638787
+profile.php?ID=638746
+profile.php?ID=404702
+profile.php?ID=638757
+profile.php?ID=637195
+profile.php?ID=75463
+profile.php?ID=638688
+profile.php?ID=638667
+profile.php?ID=638674
+profile.php?ID=321551
+profile.php?ID=229364
+profile.php?ID=638663
+profile.php?ID=421134
+profile.php?ID=638446
+profile.php?ID=638623
+profile.php?ID=423191
+profile.php?ID=638538
+profile.php?ID=633787
+profile.php?ID=13846
+profile.php?ID=638541
+profile.php?ID=229605
+profile.php?ID=638509
+profile.php?ID=593653
+profile.php?ID=638511
+profile.php?ID=638498
+profile.php?ID=637952
+profile.php?ID=451674
+profile.php?ID=638365
+profile.php?ID=638310
+profile.php?ID=638283
+profile.php?ID=634074
+profile.php?ID=637985
+profile.php?ID=638244
+profile.php?ID=628921
+profile.php?ID=601741
+profile.php?ID=638193
+profile.php?ID=289840
+profile.php?ID=638200
+profile.php?ID=54250
+profile.php?ID=613837
+profile.php?ID=638132
+profile.php?ID=638121
+profile.php?ID=638117
+profile.php?ID=638107
+profile.php?ID=435599
+profile.php?ID=568900
+profile.php?ID=419771
+profile.php?ID=638057
+profile.php?ID=638004
+profile.php?ID=613893
+profile.php?ID=374662
+profile.php?ID=632281
+profile.php?ID=637941
+profile.php?ID=637727
+profile.php?ID=397041
+profile.php?ID=637869
+profile.php?ID=429240
+profile.php?ID=637836
+profile.php?ID=637818
+profile.php?ID=637767
+profile.php?ID=637719
+profile.php?ID=637707
+profile.php?ID=630251
+profile.php?ID=432664
+profile.php?ID=449064
+profile.php?ID=637639
+profile.php?ID=624986
+profile.php?ID=637619
+profile.php?ID=637601
+profile.php?ID=637539
+profile.php?ID=637555
+profile.php?ID=637547
+profile.php?ID=637535
+profile.php?ID=637531
+profile.php?ID=621090
+profile.php?ID=637502
+profile.php?ID=632323
+profile.php?ID=637479
+profile.php?ID=637463
+profile.php?ID=637453
+profile.php?ID=637450
+profile.php?ID=637445
+profile.php?ID=637333
+profile.php?ID=636844
+profile.php?ID=637406
+profile.php?ID=632827
+profile.php?ID=200472
+profile.php?ID=637348
+profile.php?ID=636778
+profile.php?ID=637330
+profile.php?ID=637316
+profile.php?ID=637310
+profile.php?ID=636591
+profile.php?ID=637286
+profile.php?ID=631536
+profile.php?ID=636962
+profile.php?ID=636763
+profile.php?ID=636983
+profile.php?ID=637173
+profile.php?ID=635713
+profile.php?ID=637126
+profile.php?ID=637109
+profile.php?ID=637025
+profile.php?ID=637057
+profile.php?ID=637010
+profile.php?ID=611126
+profile.php?ID=633105
+profile.php?ID=14919
+profile.php?ID=580671
+profile.php?ID=633955
+profile.php?ID=636673
+profile.php?ID=446227
+profile.php?ID=636506
+profile.php?ID=622486
+/profiles/?page=2
+/profiles/?page=3
+/profiles/?page=4
+/profiles/?page=5
+/profiles/?page=6
+/profiles/?page=7
+/profiles/?page=188
+/profiles/?page=189
+/profiles/?page=2
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412b0f54b2d&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/advertising.php
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=members.ghanaweb.com/profiles/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://ox-d.ghanaweb.com/w/1.0/rc?cs=5011cac3a27a4&cb=INSERT_RANDOM_NUMBER_HERE
+done
+going to crawl  http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7c42476183e&cb=INSERT_RANDOM_NUMBER_HERE
+/secure/signupmini.do
+/secure/signupmini.do
+/en/secure/signup.do;jsessionid=1FF9B6FD300AC2EB7E583EC3F4202BA5.02?coupon=ghan10
+http://www.instantssl.com
+done
+going to crawl  http://www.csuc.edu.gh/
+/csuc/
+/csuc/p/about-csuc/our-university-college/maps-directions
+/csuc/p/about-csuc/our-university-college/contact-us
+/csuc/gallery/cbsSOMgrad/
+/csuc/gallery
+http://www.youtube.com/csucghana
+mailto:info@csuc.edu.gh
+http://www.facebook.com/pages/Christian-Service-University-College/225077930836856
+#
+/csuc/feed/articles/
+http://www.csuc.edu.gh/csuc/p/admissions/general-requirements
+/csuc/articles/news/csuc-hostel-fees-remain-unchanged
+/csuc/articles/news
+/csuc/articles/news/csucsat-microfinance-long-vacation-programme
+/csuc/articles/news
+/csuc/articles/news/new-students-hostel-ready
+/csuc/articles/news
+/csuc/articles/profiles/rt-rev-prof-safo-kantanka-chairman-of-csuc-council
+/csuc/articles/profiles
+/csuc/articles/profiles/profile-of-revprofsamuel
+/csuc/articles/profiles
+/csuc/articles/profiles
+/csuc/events/general/
+/csuc/events/general/csuc-rolls-out-student-email-service
+/csuc/events/general/csuc-hostel-application-commences
+/csuc/events/general/pass-list-for-mature-applicants
+/csuc/events/general/20122013-semester-course-registration
+/csuc/events/general/change-of-graduation-date
+/csuc/events
+/csuc/p/about-csuc/about-our-university/donate-to-us
+../csuc/p/about-csuc/office-of-the-president/presidents-message
+../csuc/p/about-csuc
+../csuc/p/about-csuc/our-university/our-mission-vision
+http://
+http://www.csuc.edu.gh/csuc/downloads/file/7289cfe95d713c18ab343d16a1d420fc
+http://www.csuc.edu.gh/src/
+../csuc/p/academics/department-of-theology
+../csuc/p/academics/department-of-business-administration
+../csuc/p/academics/department-of-computer-science
+../csuc/p/academics/department-of-communication-studies
+http://www.csuc.edu.gh/csuc/p/about-csuc/office-of-the-registrar/related/human-resources/careers-csuc/faculty-openings
+http://www.csuc.edu.gh/csuc/downloads/file/eebc443d1aff8811299b4b63a9cb18bd
+http://www.csuc.edu.gh/csuc/downloads/file/a0508ed52191b9e53a6e5c13b992074b
+http://www.csuc.edu.gh/csuc/downloads/file/4d554b6ea51710827e769af7307b43f9
+http://www.csuc.edu.gh/csuc/p/news-articles/downloads/mature-students-interview-results
+http://www.csuc.edu.gh/csuc/p/news-articles/downloads/provisional-time-table
+http://www.csuc.edu.gh/csuc/p/news-articles/downloads/semester-courses
+http://www.csuc.edu.gh/csuc/articles/news/new-students-hostel-ready
+http://portal.csuc.edu.gh
+../onlineadmissions/
+http://portal.csuc.edu.gh
+http://webmail.csuc.edu.gh
+http://www.csuc.edu.gh/csuc/p/students
+http://www.csuc.edu.gh/csuc/p/csuc-online-services
+done
+going to crawl  http://www.bbc.co.uk/programmes/p00w940j
+/privacy/cookies/managing/cookie-settings.html
+/privacy/cookies/bbc
+/
+#blq-content
+#blq-local-nav
+#blq-nav-main
+#blq-search
+/help/
+/accessibility/
+/worldservice/
+/go/worldservice/nav/int/-/worldservice
+/go/worldservice/nav/int/-/worldservice/programmes
+/go/worldservice/nav/int/-/worldservice/programmeguide
+/go/worldservice/nav/int/-/worldservice/specialreports/000000_aboutus.shtml
+/go/worldservice/nav/int/-/worldservice/specialreports/presenters.shtml
+/go/worldservice/nav/int/-/worldservice/help
+/go/worldservice/nav/int/-/worldservice/institutional/2009/03/000000_contact_us.shtml
+/go/worldservice/nav/int/-/worldservice/specialreports/presenters.shtml
+/go/worldservice/nav/int/-/worldservice/help
+/go/worldservice/nav/int/-/worldservice/institutional/2009/03/000000_contact_us.shtml
+/go/worldservice/nav/int/-/worldservice/specialreports/presenters.shtml
+/go/worldservice/nav/int/-/worldservice/help
+/go/worldservice/nav/int/-/worldservice/institutional/2009/03/000000_contact_us.shtml
+/worldservice
+/programmes
+/programmes/p00w940j/episodes/player
+/programmes/p00w940j/episodes/upcoming
+/programmes/p00w940j/episodes
+/programmes/p00wrqx2
+/programmes/p00wrqx2#synopsis
+http://www.bbc.co.uk/iplayer/console/p00wrqx2
+/programmes/p00wrqwz
+/programmes/p00wrqwz#synopsis
+http://www.bbc.co.uk/iplayer/console/p00wrqwz
+/programmes/p00wq8c6
+/programmes/p00wq8c6#synopsis
+http://www.bbc.co.uk/iplayer/console/p00wq8c6
+/programmes/p00wq8c3
+/programmes/p00wq8c3#synopsis
+/programmes/p00wq8c3#related-links
+http://www.bbc.co.uk/iplayer/console/p00wq8c3
+/programmes/p00wmgtt
+/programmes/p00wmgtt#synopsis
+http://www.bbc.co.uk/iplayer/console/p00wmgtt
+/programmes/p00w940j/episodes/player
+http://www.bbc.co.uk/blogs/theeditors/2012/07/introducing_world_service_radi.html
+http://www.bbc.co.uk/blogs/theeditors/2012/07/introducing_world_service_radi.html
+https://twitter.com/bbcworldservice
+https://twitter.com/bbcworldservice
+http://www.facebook.com/bbcworldservice
+http://www.facebook.com/bbcworldservice
+/programmes/p00w940j/episodes/upcoming
+/podcasts/series/africa
+/podcasts/series/africa
+/podcasts/series/africa
+/podcasts/help
+/podcasts/series/globalnews
+/podcasts/series/globalnews
+/podcasts/series/globalnews
+/podcasts/help
+http://www.facebook.com/bbcworldservice
+https://twitter.com/bbcworldservice
+/worldservice/programmes/genres/news
+http://www.bbc.co.uk/news/
+http://www.bbc.co.uk/sport/
+http://www.bbc.co.uk/weather/
+/iplayer/
+/tv/
+/radio/
+#blq-nav
+/cbbc/
+/cbeebies/
+/comedy/
+/food/
+/health/
+/history/
+/learning/
+/music/
+/science/
+/nature/
+/local/
+/northernireland/
+/scotland/
+/wales/
+/a-z/
+http://www.browserchoice.eu/
+http://m.bbc.co.uk
+/terms/
+/aboutthebbc/
+/privacy/
+/help/
+/privacy/bbc-cookies-policy.shtml
+/accessibility/
+/guidance/
+/feedback/
+/help/web/links/
+done
+going to crawl  /GhanaHomePage/jobs/
+Cannot open URL /GhanaHomePage/jobs/ for reading
+done
+going to crawl  http://zummo.ghanaweb.com/
+displaypreference.php?url=zummo.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7d8c7d9a2ce&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+index.php
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=I
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=H
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=J
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=M
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=N
+http://www.ghanaweb.com/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/trucks/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/jobs/
+http://www.ghanaweb.com/GhanaHomePage/bookshop/
+#
+#
+#
+http://www.zummogh.com/investment.html
+http://www.zummogh.com/about-us.html
+http://www.zummogh.com/machines.html
+http://www.zummogh.com/contact.php
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=zummo.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://ugodeal.ghanaweb.com/
+displaypreference.php?url=ugodeal.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ugodeal.ghanaweb.com
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=I
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=H
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=J
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=M
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=N
+http://www.ghanaweb.com/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/trucks/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/jobs/
+http://www.ghanaweb.com/GhanaHomePage/bookshop/
+http://www.ugodeal.com
+http://www.ugodeal.com/other-deals
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=ugodeal.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://electroland.ghanaweb.com
+displaypreference.php?url=electroland.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://electroland.ghanaweb.com
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+samsung_ghana_electroland.php
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=I
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=H
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=J
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=M
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=N
+http://www.ghanaweb.com/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/trucks/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/jobs/
+http://www.ghanaweb.com/GhanaHomePage/bookshop/
+http://www.samsung.com/africa_en/consumer/home-appliances/air-conditioner
+http://www.samsung.com/africa_en/consumer/tv-audio-video/home-theatre
+http://www.samsung.com/africa_en/consumer/home-appliances/microwave-oven
+http://www.samsung.com/africa_en/consumer/home-appliances/washing-machine
+http://www.samsung.com/africa_en/consumer/tv-audio-video/television
+http://www.samsung.com/africa_en/consumer/home-appliances/refrigerator
+#
+#
+#
+#
+#
+#
+#
+#
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=electroland.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://maxmart.ghanaweb.com/
+displaypreference.php?url=maxmart.ghanaweb.com%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7d8c7d9a2ce&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/market/
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/SportsArchive/
+http://www.ghanaweb.com/GhanaHomePage/business/
+http://www.ghanaweb.com/GhanaHomePage/entertainment/
+http://www.ghanaweb.com/GhanaHomePage/country_information/
+http://www.ghanaweb.com/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+index.php
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=I
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=H
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=J
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=M
+http://www.ghanaweb.com/GhanaHomePage/classifieds/listing.php?CATEGORY=N
+http://www.ghanaweb.com/GhanaHomePage/realestate/
+http://www.ghanaweb.com/GhanaHomePage/trucks/
+http://www.ghanaweb.com/GhanaHomePage/used_cars/
+http://www.ghanaweb.com/GhanaHomePage/jobs/
+http://www.ghanaweb.com/GhanaHomePage/bookshop/
+http://www.maxmartghana.com
+http://www.maxmartghana.com/services.html
+casino-brand.pdf
+car-promotion.pdf
+car-promotion.pdf
+glassware.php
+glassware.php
+groceries.php
+electricals.php
+http://www.maxmartghana.com
+http://www.maxmartghana.com
+http://www.maxmartghana.com
+http://www.maxmartghana.com
+lifestyle.php
+mailto:maxmart@maxmartghana.com
+http://www.maxmartghana.com
+maxmart_shop_ghana.php
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=maxmart.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  /GhanaHomePage/realestate/
+Cannot open URL /GhanaHomePage/realestate/ for reading
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4438
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2Faudio%2Fclip.php%3FID%3D4438
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4126e97afc6&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+/GhanaHomePage/entertainment/
+./
+clips.php?cat=0
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+browse.archive.php
+clips.php?cat=0
+clips.php?cat=1
+clips.php?cat=2
+musicians.php
+../directory/cat66.html
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412acd15505&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4438
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4438
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2Faudio%2Fclip.php%3FID%3D4438
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4126e97afc6&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+/GhanaHomePage/entertainment/
+./
+clips.php?cat=0
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+browse.archive.php
+clips.php?cat=0
+clips.php?cat=1
+clips.php?cat=2
+musicians.php
+../directory/cat66.html
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412acd15505&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/audio/clip.php?ID=4438
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9571
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2Fused_cars%2Fcar.php%3Fid%3D9571
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7d8c7d9a2ce&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+/GhanaHomePage/business/
+../market/
+./
+./overview.php?make=Hyundai
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+budget_cars.php
+mid_priced_cars.php
+high_end_cars.php
+unpriced_cars.php
+sell_your_car.php
+car.photo.php?id=9571&nr=1
+car.photo.php?id=9571&nr=2
+car.photo.php?id=9571&nr=3
+car.photo.php?id=9571&nr=4
+car.photo.php?id=9571&nr=5
+mailto:' + user + '@' + site + '\
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9571
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9571
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2Fused_cars%2Fcar.php%3Fid%3D9571
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f7d8c7d9a2ce&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+/GhanaHomePage/business/
+../market/
+./
+./overview.php?make=Hyundai
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+./
+budget_cars.php
+mid_priced_cars.php
+high_end_cars.php
+unpriced_cars.php
+sell_your_car.php
+car.photo.php?id=9571&nr=1
+car.photo.php?id=9571&nr=2
+car.photo.php?id=9571&nr=3
+car.photo.php?id=9571&nr=4
+car.photo.php?id=9571&nr=5
+mailto:' + user + '@' + site + '\
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/used_cars/car.php?id=9571
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2Faboutus.php
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128968a74c&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+aboutus.php
+contact.php
+partners.php
+sitemap.php
+accessibility.php
+/advertise
+rss_feeds.php
+webhosting.php
+privacy_policy.php
+disclaimer.php
+http://www.yahoo.com
+http://www.ghanaweb.com
+advertising.php
+http://members.ghanaweb.com/private/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f412c35547df&cb=INSERT_RANDOM_NUMBER_HERE
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/advertise/
+displaypreference.php?url=www.ghanaweb.com%2Fadvertise%2F
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128968a74c&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/GhanaHomePage/contact.php
+http://www.ghanaweb.com/GhanaHomePage/partners.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+http://www.ghanaweb.com/GhanaHomePage/accessibility.php
+index.php
+leaderboard-banners.php
+http://www.ghanaweb.com/GhanaHomePage/rss_feeds.php
+http://www.ghanaweb.com/GhanaHomePage/webhosting.php
+http://www.ghanaweb.com/GhanaHomePage/privacy_policy.php
+http://www.ghanaweb.com/GhanaHomePage/disclaimer.php
+index.php
+news-page-adverts.php
+features-pages-adverts.php
+leaderboard-banners.php
+mailto:sales@ghanaweb.com
+index.php
+news-page-adverts.php
+features-pages-adverts.php
+ghanaweb-services.php
+leaderboard-banners.php
+square-banners.php
+rectangle-banners.php
+skyscraper-banners.php
+news-page-adverts.php#sponLk
+http://www.ghanaweb.com/GhanaHomePage/NewsArchive/
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/
+done
+going to crawl  http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+displaypreference.php?url=www.ghanaweb.com%2FGhanaHomePage%2Fsitemap.php
+http://mobile.ghanaweb.com/
+http://ox-d.ghanaweb.com/w/1.0/rc?cs=4f4128968a74c&cb=INSERT_RANDOM_NUMBER_HERE
+http://members.ghanaweb.com/private/register.php
+http://members.ghanaweb.com/private/forgotten.php
+http://www.ghanaweb.com/GhanaHomePage
+http://www.ghanaweb.com
+/GhanaHomePage/NewsArchive/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/business/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/country_information/
+/GhanaHomePage/opinions/
+http://members.ghanaweb.com/
+aboutus.php
+contact.php
+partners.php
+sitemap.php
+accessibility.php
+/advertise
+rss_feeds.php
+webhosting.php
+privacy_policy.php
+disclaimer.php
+/GhanaHomePage/diaspora/
+/GhanaHomePage/features/
+/GhanaHomePage/fun/good_old_days.php
+/GhanaHomePage/fun/true_stories.php
+/GhanaHomePage/athletics/
+/GhanaHomePage/annual/
+/GhanaHomePage/bball/
+/GhanaHomePage/religion/bible.php
+/GhanaHomePage/blackstars/
+/GhanaHomePage/blogs/
+/GhanaHomePage/bookshop/
+/GhanaHomePage/boxing/
+/GhanaHomePage/economy/budget.php
+/GhanaHomePage/business/
+/GhanaHomePage/used_cars/
+/GhanaHomePage/chat/
+/GhanaHomePage/geography/city.php
+/GhanaHomePage/classifieds/
+/GhanaHomePage/geography/climate.php
+/GhanaHomePage/cricket/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/it/cybercafes.php
+/GhanaHomePage/classifieds/listing.php?CATEGORY=C
+/GhanaHomePage/general/defence.php
+/GhanaHomePage/dictionary/
+/GhanaHomePage/foreign_affairs/abroad.php
+/GhanaHomePage/opinions/
+/GhanaHomePage/general/did-u-know.php
+http://drivingtest.ghanaweb.com/
+/GhanaHomePage/economy/statistics.php
+/GhanaHomePage/education/
+/GhanaHomePage/election2008/
+/GhanaHomePage/entertainment/
+/GhanaHomePage/tribes/
+/GhanaHomePage/economy/forex.php
+/GhanaHomePage/faq/
+/GhanaHomePage/features/
+/GhanaHomePage/food/
+/GhanaHomePage/fun/
+/GhanaHomePage/games/
+/GhanaHomePage/country_information/
+/GhanaHomePage/geography/
+/GhanaHomePage/golf/
+/GhanaHomePage/fun/good_old_days.php
+/GhanaHomePage/republic/
+/GhanaHomePage/hball/
+/GhanaHomePage/health/
+/GhanaHomePage/history/
+/GhanaHomePage/hockey/
+http://electroland.ghanaweb.com/
+/GhanaHomePage/health/hospitals.php
+/GhanaHomePage/tourism/hotels.php
+/GhanaHomePage/realestate/
+/GhanaHomePage/economy/import_duty.php
+/GhanaHomePage/general/statistics.php
+/GhanaHomePage/it/isp.php
+/GhanaHomePage/it/cybercafes.php
+/GhanaHomePage/jobs/
+/GhanaHomePage/fun/jokes.php
+/GhanaHomePage/diaspora/ghanaladies.php
+/GhanaHomePage/tribes/languages.php
+/GhanaHomePage/directory/
+http://sil.ghanaweb.coml.php
+/GhanaHomePage/geography/maps.php
+/GhanaHomePage/republic/ministers.php
+/GhanaHomePage/republic/ministries.php
+http://mobile.ghanaweb.com/
+/television/ghana_movies.php
+/GhanaHomePage/audio/
+/GhanaHomePage/republic/
+/GhanaHomePage/NewsArchive/archive.php
+/GhanaHomePage/directory/cat30.html
+/GhanaHomePage/NewsArchive/obituaries.php
+/GhanaHomePage/religion/bible.php
+/GhanaHomePage/foreign_affairs/org.php
+/GhanaHomePage/republic/parliament.php
+/GhanaHomePage/people/
+/GhanaHomePage/NewsArchive/photo.archive.php
+/GhanaHomePage/republic/polit_hist.php
+/GhanaHomePage/republic/party.php
+/GhanaHomePage/poll/
+/GhanaHomePage/republic/president.php
+/GhanaHomePage/quiz/
+/GhanaHomePage/communication/radio.php
+/GhanaHomePage/geography/region.php
+/GhanaHomePage/religion/
+http://sil.ghanaweb.coml.php
+/GhanaHomePage/technology/
+/GhanaHomePage/SportsArchive/
+/GhanaHomePage/economy/gse.php
+/GhanaHomePage/education/browse2.php
+http://maxmart.ghanaweb.com/
+/GhanaHomePage/fun/
+/GhanaHomePage/communication/
+/GhanaHomePage/telephone_directory
+/GhanaHomePage/communication/television.php
+/GhanaHomePage/tourism/
+/GhanaHomePage/soccer_transfers/
+/GhanaHomePage/fun/trotro.php
+/GhanaHomePage/fun/true_stories.php
+/GhanaHomePage/education/cape.html
+/GhanaHomePage/education/ust.html
+/GhanaHomePage/used_cars/
+/GhanaHomePage/audio/clips.php?cat=0
+/GhanaHomePage/tourism/akosombo.php
+/GhanaHomePage/directory
+/GhanaHomePage/fun/
+/GhanaHomePage/NewsArchive/world.news.php
+/GhanaHomePage/annual/
+http://members.ghanaweb.com/profiles/
+http://www.ghanaweb.com/GhanaHomePage/aboutus.php
+http://www.ghanaweb.com/advertise/
+http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHomePage/sitemap.php
+http://www.ghanaweb.com/GhanaHomePage/sitemap.php
+done
+done
