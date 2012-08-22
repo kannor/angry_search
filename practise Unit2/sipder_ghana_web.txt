@@ -4060,3 +4060,1021 @@ http://www.ghanaweb.com/GhanaHomePage/feedback.php?url=www.ghanaweb.com/GhanaHom
 http://www.ghanaweb.com/GhanaHomePage/sitemap.php
 done
 done
+going to crawl  /view#Course/ph100/CourseRev/1/Unit/3001/Nugget/7001
+Cannot open URL /view#Course/ph100/CourseRev/1/Unit/3001/Nugget/7001 for reading
+done
+going to crawl  /courses
+Cannot open URL /courses for reading
+done
+going to crawl  /courses
+Cannot open URL /courses for reading
+done
+going to crawl  /view#Course/cs101/CourseRev/apr2012
+Cannot open URL /view#Course/cs101/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs101/CourseRev/apr2012
+Cannot open URL /view#Course/cs101/CourseRev/apr2012 for reading
+done
+going to crawl  /overview/Course/ph100/CourseRev/1
+Cannot open URL /overview/Course/ph100/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/ph100/CourseRev/1
+Cannot open URL /overview/Course/ph100/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/st101/CourseRev/1
+Cannot open URL /overview/Course/st101/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/st101/CourseRev/1
+Cannot open URL /overview/Course/st101/CourseRev/1 for reading
+done
+going to crawl  /view#Course/cs253/CourseRev/apr2012
+Cannot open URL /view#Course/cs253/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs253/CourseRev/apr2012
+Cannot open URL /view#Course/cs253/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs262/CourseRev/apr2012
+Cannot open URL /view#Course/cs262/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs262/CourseRev/apr2012
+Cannot open URL /view#Course/cs262/CourseRev/apr2012 for reading
+done
+going to crawl  /overview/Course/cs259/CourseRev/1
+Cannot open URL /overview/Course/cs259/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs259/CourseRev/1
+Cannot open URL /overview/Course/cs259/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs222/CourseRev/1
+Cannot open URL /overview/Course/cs222/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs222/CourseRev/1
+Cannot open URL /overview/Course/cs222/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs258/CourseRev/1
+Cannot open URL /overview/Course/cs258/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs258/CourseRev/1
+Cannot open URL /overview/Course/cs258/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs215/CourseRev/1
+Cannot open URL /overview/Course/cs215/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs215/CourseRev/1
+Cannot open URL /overview/Course/cs215/CourseRev/1 for reading
+done
+going to crawl  /view#Course/cs387/CourseRev/apr2012
+Cannot open URL /view#Course/cs387/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs387/CourseRev/apr2012
+Cannot open URL /view#Course/cs387/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs373/CourseRev/apr2012
+Cannot open URL /view#Course/cs373/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs373/CourseRev/apr2012
+Cannot open URL /view#Course/cs373/CourseRev/apr2012 for reading
+done
+going to crawl  /overview/Course/cs313/CourseRev/1
+Cannot open URL /overview/Course/cs313/CourseRev/1 for reading
+done
+going to crawl  /overview/Course/cs313/CourseRev/1
+Cannot open URL /overview/Course/cs313/CourseRev/1 for reading
+done
+going to crawl  /view#Course/cs212/CourseRev/apr2012
+Cannot open URL /view#Course/cs212/CourseRev/apr2012 for reading
+done
+going to crawl  /view#Course/cs212/CourseRev/apr2012
+Cannot open URL /view#Course/cs212/CourseRev/apr2012 for reading
+done
+going to crawl  http://www.facebook.com/pages/Udacity/174179219354091?sk=wall
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+http://www.facebook.com/pages/Udacity/174179219354091
+http://www.facebook.com/devavrat.ravetkar
+http://www.facebook.com/pages/ED-Education-x-Democracy/323715421057498
+http://www.facebook.com/GuardianStudent
+http://www.facebook.com/educationguardian
+http://www.facebook.com/schoolbooknyc
+http://www.facebook.com/FreeOnlineEducationalResources
+http://www.facebook.com/pages/Udacity/174179219354091?ref=stream
+http://www.facebook.com/pages/Udacity/174179219354091?ref=stream
+/l.php?u=http%3A%2F%2Fow.ly%2Fd6t5U&amp;h=JAQGT1xRbAQHi4a_ZGeyC2Wjj1pwlZurn06rnEA0HennFEQ&amp;s=1
+/l.php?u=http%3A%2F%2Fow.ly%2Fd6t5U&amp;h=oAQFVz_AHAQEudcV29F3xfDFxWyLmPaNkVqWQfTG-mnlmew&amp;s=1
+/l.php?u=http%3A%2F%2Fhootsuite.com%2F&amp;h=3AQEU6dfmAQEXHy6P1AoxJO1LOyqtUV26EW2n2kxxTEdQZA&amp;s=1
+http://www.facebook.com/robert.cronberg
+/browse/likes/?id=276424582462887
+http://www.facebook.com/pages/Udacity/174179219354091?ref=stream
+http://www.facebook.com/pages/Udacity/174179219354091?ref=stream
+/l.php?u=http%3A%2F%2Fow.ly%2Fd62Mo&amp;h=tAQEIpQ_RAQG6rToOBG9mDDiJAPgOuSjSgFl0FZjpwOz8dA&amp;s=1
+/l.php?u=http%3A%2F%2Fow.ly%2Fd62Mo&amp;h=IAQETTz6zAQEdYlNY7C1H4n59fiQthmDjNZzL31tDGgn9gA&amp;s=1
+/l.php?u=http%3A%2F%2Fhootsuite.com%2F&amp;h=jAQFa5MomAQE0I8TSFNdX1ExsoFmu0AxTCMv7CaW4cPHATg&amp;s=1
+/browse/likes/?id=276373559134656
+/174179219354091/timeline
+/174179219354091/timeline/2012/7
+/174179219354091/timeline/2012
+/174179219354091/timeline/2012/6
+/174179219354091/timeline/2012/5
+/174179219354091/timeline/2012/4
+/174179219354091/timeline/2012/3
+/174179219354091/timeline/2012/2
+/174179219354091/timeline/2012/1
+/174179219354091/timeline/2011
+/174179219354091/timeline/2011/12
+/174179219354091/timeline/2011/11
+/174179219354091/timeline/2011/10
+/174179219354091/timeline/2011/9
+/174179219354091/timeline/2011/8
+/174179219354091/timeline/2011/7
+/174179219354091/timeline/2011/6
+done
+going to crawl  http://twitter.com/udacity
+?lang=id
+?lang=msa
+?lang=da
+?lang=de
+?lang=es
+?lang=eu
+?lang=fil
+?lang=it
+?lang=hu
+?lang=nl
+?lang=no
+?lang=pl
+?lang=pt
+?lang=fi
+?lang=sv
+?lang=tr
+?lang=ca
+?lang=fr
+?lang=cs
+?lang=el
+?lang=ru
+?lang=uk
+?lang=he
+?lang=ur
+?lang=ar
+?lang=fa
+?lang=hi
+?lang=th
+?lang=ja
+?lang=zh-cn
+?lang=zh-tw
+?lang=ko
+done
+going to crawl  https://plus.google.com/116286004036789369492/posts
+116286004036789369492
+http://www.udacity.com
+./102881013308661521446
+./102881013308661521446
+./103266364845729488839
+./103266364845729488839
+./107540638333054762391
+./107540638333054762391
+./107148038680310806563
+./107148038680310806563
+pages/create
+pages/create
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/1uUStFqyT5X
+http://udacity.blogspot.com/2012/08/3-ways-to-make-your-global-meetup-day.html
+http://udacity.blogspot.com/2012/08/3-ways-to-make-your-global-meetup-day.html
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/3MA8GAsdzx9
+http://udacity.blogspot.com/2012/08/tell-world-you-took-udacity-class.html
+http://udacity.blogspot.com/2012/08/tell-world-you-took-udacity-class.html
+./104019599112043511931
+./104019599112043511931
+http://www.udacity.com/
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/Tg1mDBhaFrw
+http://udacity.blogspot.com/2012/08/tips-for-organizing-your-udacity-study.html
+http://udacity.blogspot.com/2012/08/tips-for-organizing-your-udacity-study.html
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/JxU54acPm34
+http://www.udacity.blogspot.com/2012/08/high-school-offers-credit-for-udacity.html
+http://www.udacity.blogspot.com/2012/08/high-school-offers-credit-for-udacity.html
+./100621666767106133443
+./100621666767106133443
+http://goo.gl/ds084
+http://teamjusix.blogspot.de/2012/07/udacity-high-school-challenge.html
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/AMi9EQmwtwf
+https://plus.google.com/photos/116286004036789369492/albums/5701010725705838849/5771813973250396338
+photos/116286004036789369492/albums
+./106373898628265506840
+./106373898628265506840
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/P9AWqWeXRFP
+http://udacity.blogspot.com/2012/07/students-gain-skills-confidence-and.html
+http://udacity.blogspot.com/2012/07/students-gain-skills-confidence-and.html
+./116286004036789369492
+./116286004036789369492
+mailto:employers@udacity.com
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/F5khtLdRFfm
+http://udacity.blogspot.com/2012/07/2-more-days-rock-paper-scissors.html
+http://udacity.blogspot.com/2012/07/2-more-days-rock-paper-scissors.html
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/dcFghx9UZCd
+http://udacity.blogspot.com/2012/07/udacity-contest-winners-cash-in-their.html
+http://udacity.blogspot.com/2012/07/udacity-contest-winners-cash-in-their.html
+./112310380552143884263
+./112310380552143884263
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/eYEXeX3zTJ3
+http://foss-geek.blogspot.in/2012/07/i-got-job-thanks-to-udacity.html
+./116286004036789369492
+./116286004036789369492
+116286004036789369492/posts/FY7aPSHsaaH
+http://udacity.blogspot.com/2012/07/udacity-student-goes-to-poland-takes.html
+http://udacity.blogspot.com/2012/07/udacity-student-goes-to-poland-takes.html
+./109457179107418381002
+./109457179107418381002
+http://www.udacity.com
+https://accounts.google.com/TOS?hl=en-GB
+http://www.google.com/intl/en_uk/help/terms_maps.html
+http://www.google.com/intl/en_uk/+/policy/content.html
+http://www.google.com/intl/en_uk/+/policy/
+/settings/language
+done
+going to crawl  /
+Cannot open URL / for reading
+done
+going to crawl  /udacity
+Cannot open URL /udacity for reading
+done
+going to crawl  /careers/
+Cannot open URL /careers/ for reading
+done
+going to crawl  /contact
+Cannot open URL /contact for reading
+done
+going to crawl  /wiki/FAQ
+Cannot open URL /wiki/FAQ for reading
+done
+going to crawl  /legal/
+Cannot open URL /legal/ for reading
+done
+done
+going to crawl  /ajax/reg_birthday_help.php
+Cannot open URL /ajax/reg_birthday_help.php for reading
+done
+going to crawl  /terms.php
+Cannot open URL /terms.php for reading
+done
+going to crawl  /policy.php
+Cannot open URL /policy.php for reading
+done
+going to crawl  /help/cookies/
+Cannot open URL /help/cookies/ for reading
+done
+going to crawl  #
+Cannot open URL # for reading
+done
+going to crawl  #
+Cannot open URL # for reading
+done
+going to crawl  #
+Cannot open URL # for reading
+done
+going to crawl  /legal/terms
+Cannot open URL /legal/terms for reading
+done
+going to crawl  /policy.php
+Cannot open URL /policy.php for reading
+done
+going to crawl  /pages/create.php
+Cannot open URL /pages/create.php for reading
+done
+going to crawl  http://www.facebook.com/mobile/?ref=pf
+/mobile/click_promo/?redir_url=http%3A%2F%2Fwww.facebook.com%2FMTNGH&amp;carrier=MTN
+/mobile/camera
+/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid525898024&amp;h=PAQEwVKCA&amp;s=1
+/mobile/messenger
+/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid454638411&amp;h=hAQHMcjiD&amp;s=1
+/l.php?u=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.facebook.orca&amp;h=tAQFjUk-I&amp;s=1
+/mobile/ipad
+/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Ffacebook%2Fid284882215&amp;h=QAQGlqzkP&amp;s=1
+/mobile/click/?redir_url=http%3A%2F%2Fitunes.apple.com%2Fapp%2Ffacebook-pages-manager%2Fid514643583%3Fls%3D1%26mt%3D8%26ign-mscache%3D1&amp;cref=pages_mgr_mobile_marketing&amp;app_id=165907476854626
+/settings?tab=mobile
+/help/?page=432
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/find-friends?ref=pf&amp;how-it-works=1
+/r.php
+/r.php
+/r.php
+/family/
+http://www.facebook.com/directory/people/A
+http://www.facebook.com/directory/people/B
+http://www.facebook.com/directory/people/C
+http://www.facebook.com/directory/people/D
+http://www.facebook.com/directory/people/E
+http://www.facebook.com/directory/people/F
+http://www.facebook.com/directory/people/G
+http://www.facebook.com/directory/people/H
+http://www.facebook.com/directory/people/I
+http://www.facebook.com/directory/people/J
+http://www.facebook.com/directory/people/K
+http://www.facebook.com/directory/people/L
+http://www.facebook.com/directory/people/M
+http://www.facebook.com/directory/people/N
+http://www.facebook.com/directory/people/O
+http://www.facebook.com/directory/people/P
+http://www.facebook.com/directory/people/Q
+http://www.facebook.com/directory/people/R
+http://www.facebook.com/directory/people/S
+http://www.facebook.com/directory/people/T
+http://www.facebook.com/directory/people/U
+http://www.facebook.com/directory/people/V
+http://www.facebook.com/directory/people/W
+http://www.facebook.com/directory/people/X
+http://www.facebook.com/directory/people/Y
+http://www.facebook.com/directory/people/Z
+http://www.facebook.com/directory/people/%40
+http://www.facebook.com/directory/pages/A
+http://www.facebook.com/directory/pages/B
+http://www.facebook.com/directory/pages/C
+http://www.facebook.com/directory/pages/D
+http://www.facebook.com/directory/pages/E
+http://www.facebook.com/directory/pages/F
+http://www.facebook.com/directory/pages/G
+http://www.facebook.com/directory/pages/H
+http://www.facebook.com/directory/pages/I
+http://www.facebook.com/directory/pages/J
+http://www.facebook.com/directory/pages/K
+http://www.facebook.com/directory/pages/L
+http://www.facebook.com/directory/pages/M
+http://www.facebook.com/directory/pages/N
+http://www.facebook.com/directory/pages/O
+http://www.facebook.com/directory/pages/P
+http://www.facebook.com/directory/pages/Q
+http://www.facebook.com/directory/pages/R
+http://www.facebook.com/directory/pages/S
+http://www.facebook.com/directory/pages/T
+http://www.facebook.com/directory/pages/U
+http://www.facebook.com/directory/pages/V
+http://www.facebook.com/directory/pages/W
+http://www.facebook.com/directory/pages/X
+http://www.facebook.com/directory/pages/Y
+http://www.facebook.com/directory/pages/Z
+http://www.facebook.com/directory/pages/%40
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/badges/?ref=pf
+/badges/profile.php
+/badges/profile.php
+/badges/like.php
+/badges/like.php
+/badges/photo.php
+/badges/photo.php
+/badges/page.php
+/badges/page.php
+http://developers.facebook.com/plugins
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/directory/people/
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/directory/pages/
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/places/
+http://www.facebook.com/directory/pages/A
+http://www.facebook.com/directory/pages/B
+http://www.facebook.com/directory/pages/C
+http://www.facebook.com/directory/pages/D
+http://www.facebook.com/directory/pages/E
+http://www.facebook.com/directory/pages/F
+http://www.facebook.com/directory/pages/G
+http://www.facebook.com/directory/pages/H
+http://www.facebook.com/directory/pages/I
+http://www.facebook.com/directory/pages/J
+http://www.facebook.com/directory/pages/K
+http://www.facebook.com/directory/pages/L
+http://www.facebook.com/directory/pages/M
+http://www.facebook.com/directory/pages/N
+http://www.facebook.com/directory/pages/O
+http://www.facebook.com/directory/pages/P
+http://www.facebook.com/directory/pages/Q
+http://www.facebook.com/directory/pages/R
+http://www.facebook.com/directory/pages/S
+http://www.facebook.com/directory/pages/T
+http://www.facebook.com/directory/pages/U
+http://www.facebook.com/directory/pages/V
+http://www.facebook.com/directory/pages/W
+http://www.facebook.com/directory/pages/X
+http://www.facebook.com/directory/pages/Y
+http://www.facebook.com/directory/pages/Z
+http://www.facebook.com/directory/pages/others
+http://www.facebook.com/f4ep
+http://www.facebook.com/facebook
+http://www.facebook.com/TexasHoldEm
+http://www.facebook.com/rihanna
+http://www.facebook.com/youtube
+http://www.facebook.com/TheSimpsons
+http://www.facebook.com/shakira
+http://www.facebook.com/ladygaga
+http://www.facebook.com/michaeljackson
+http://www.facebook.com/harrypottermovie
+http://www.facebook.com/FamilyGuy
+http://www.facebook.com/Cristiano
+http://www.facebook.com/JustinBieber
+http://www.facebook.com/katyperry
+http://www.facebook.com/linkinPark
+http://www.facebook.com/southpark
+http://www.facebook.com/AKON
+http://www.facebook.com/pages/Music/112936425387489
+http://www.facebook.com/LilWayne
+http://www.facebook.com/BobMarley
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/facebook
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+http://www.facebook.com/facebook
+/l.php?u=http%3A%2F%2Fnewsroom.fb.com%2F&amp;h=SAQGIOzrZ&amp;s=1
+/l.php?u=http%3A%2F%2Finvestor.fb.com%2F&amp;h=7AQEOG4K7&amp;s=1
+http://www.facebook.com/marketing
+http://www.facebook.com/FacebookFrance
+http://www.facebook.com/Arabic
+http://www.facebook.com/fbmedia
+http://www.facebook.com/enespanol
+/facebook/timeline
+/facebook/timeline/2012/7
+/facebook/timeline/2012
+/facebook/timeline/2012/6
+/facebook/timeline/2012/5
+/facebook/timeline/2012/4
+/facebook/timeline/2012/3
+/facebook/timeline/2012/2
+/facebook/timeline/2012/1
+/facebook/timeline/2011
+/facebook/timeline/2011/12
+/facebook/timeline/2011/11
+/facebook/timeline/2011/10
+/facebook/timeline/2011/9
+/facebook/timeline/2011/8
+/facebook/timeline/2011/7
+/facebook/timeline/2011/6
+/facebook/timeline/2011/5
+/facebook/timeline/2011/4
+/facebook/timeline/2011/3
+/facebook/timeline/2011/2
+/facebook/timeline/2011/1
+/facebook/timeline/2010
+/facebook/timeline/2010/12
+/facebook/timeline/2010/11
+/facebook/timeline/2010/10
+/facebook/timeline/2010/9
+/facebook/timeline/2010/8
+/facebook/timeline/2010/7
+/facebook/timeline/2010/6
+/facebook/timeline/2010/5
+/facebook/timeline/2010/4
+/facebook/timeline/2010/3
+/facebook/timeline/2010/2
+/facebook/timeline/2010/1
+/facebook/timeline/2009
+/facebook/timeline/2009/12
+/facebook/timeline/2009/11
+/facebook/timeline/2009/10
+/facebook/timeline/2009/9
+/facebook/timeline/2009/8
+/facebook/timeline/2009/7
+/facebook/timeline/2009/6
+/facebook/timeline/2009/5
+/facebook/timeline/2009/4
+/facebook/timeline/2009/3
+/facebook/timeline/2009/2
+/facebook/timeline/2009/1
+/facebook/timeline/2008
+/facebook/timeline/2008/12
+/facebook/timeline/2008/11
+/facebook/timeline/2008/10
+/facebook/timeline/2008/9
+/facebook/timeline/2008/8
+/facebook/timeline/2008/7
+/facebook/timeline/2008/6
+/facebook/timeline/2008/5
+/facebook/timeline/2008/4
+/facebook/timeline/2008/3
+/facebook/timeline/2008/2
+/facebook/timeline/2008/1
+/facebook/timeline/2007
+/facebook/timeline/2007/12
+/facebook/timeline/2007/11
+/facebook/timeline/2007/10
+/facebook/timeline/2007/9
+/facebook/timeline/2007/8
+/facebook/timeline/2007/7
+/facebook/timeline/2007/6
+/facebook/timeline/2007/5
+/facebook/timeline/2007/4
+/facebook/timeline/2007/3
+/facebook/timeline/2007/2
+/facebook/timeline/2007/1
+/facebook/timeline/2006
+/facebook/timeline/2006/12
+/facebook/timeline/2006/11
+/facebook/timeline/2006
+/facebook/timeline/2006/9
+/facebook/timeline/2006/8
+/facebook/timeline/2006/7
+/facebook/timeline/2006/6
+/facebook/timeline/2006/5
+/facebook/timeline/2006/4
+/facebook/timeline/2006/3
+/facebook/timeline/2006/2
+/facebook/timeline/2006/1
+/facebook/timeline/2005
+/facebook/timeline/2005/12
+/facebook/timeline/2005/11
+/facebook/timeline/2005
+/facebook/timeline/2005/9
+/facebook/timeline/2005/8
+/facebook/timeline/2005/7
+/facebook/timeline/2005/6
+/facebook/timeline/2005/5
+/facebook/timeline/2005/4
+/facebook/timeline/2005/3
+/facebook/timeline/2005/2
+/facebook/timeline/2005/1
+/facebook/timeline/2004
+/facebook/timeline/2004/12
+/facebook/timeline/2004/11
+/facebook/timeline/2004
+/facebook/timeline/2004/9
+/facebook/timeline/2004/8
+/facebook/timeline/2004/7
+/facebook/timeline/2004/6
+/facebook/timeline/2004/5
+/facebook/timeline/2004/4
+/facebook/timeline/2004/3
+/facebook/timeline/2004/2
+done
+going to crawl  http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+/ajax/reg_birthday_help.php
+/terms.php
+/policy.php
+/help/cookies/
+#
+#
+#
+/legal/terms
+/policy.php
+/pages/create.php
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+/terms_pages.php
+/terms_pages.php
+/terms_pages.php
+https://www.facebook.com/about/subscribe
+/terms_pages.php
+/terms_pages.php
+/terms_pages.php
+done
+going to crawl  http://developers.facebook.com/?ref=pf
+https://developers.facebook.com/features/whats-new-ios-sdk-3/
+/docs/guides/web/
+/docs/guides/web/
+/docs/guides/mobile/
+/docs/guides/mobile/
+/docs/guides/canvas/
+/docs/guides/canvas/
+http://developers.facebook.com/blog/post/2012/08/20/world-hack-kicks-off-this-week/
+http://developers.facebook.com/blog/post/2012/08/16/third-party-plugins--services-and-sdks/
+http://www.facebook.com/mk
+/blog/archive
+/l.php?u=http%3A%2F%2Fwww.fbworldhack.com%2F&amp;h=ZAQFSaydG&amp;s=1
+http://www.fbworldhack.com/
+/docs/guides/appcenter
+/docs/guides/appcenter
+/docs/opengraph
+/docs/opengraph
+/html5/
+/html5/
+/wordpress/
+/wordpress/
+/blog/post/541/
+/blog/post/541/
+/showcase/
+http://www.facebook.com/FacebookDevelopers
+http://www.facebook.com/campaign/landing.php?placement=pf_dev&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/careers
+http://developers.facebook.com/policy
+http://www.facebook.com/policy.php
+done
+going to crawl  http://www.facebook.com/careers/?ref=pf
+#
+#
+#
+#
+#
+http://dragon.ak.fbcdn.net/cfs-ak-ash4/84979/463/128098617331154_1422281005.pdf
+https://www.facebook.com/facebookdiversity/
+/careers/locations/amsterdam
+/careers/locations/ashburn
+/careers/locations/atlanta
+/careers/locations/auckland
+/careers/locations/austin
+/careers/locations/brussels
+/careers/locations/buenos-aires
+/careers/locations/chicago
+/careers/locations/dallas
+/careers/locations/detriot
+/careers/locations/dublin
+/careers/locations/forrest-city
+/careers/locations/hamburg
+/careers/locations/hongkong
+/careers/locations/hyderabad
+/careers/locations/london
+/careers/locations/losangeles
+/careers/locations/lulea
+/careers/locations/madrid
+/careers/locations/malaysia
+/careers/locations/melbourne
+/careers/locations/menlo-park
+/careers/locations/mexico-city
+/careers/locations/miami
+/careers/locations/milan
+/careers/locations/mumbai
+/careers/locations/newyork
+/careers/locations/paris
+/careers/locations/prineville
+/careers/locations/saopaulo
+/careers/locations/seattle
+/careers/locations/seoul
+/careers/locations/singapore
+/careers/locations/stockholm
+/careers/locations/sydney
+/careers/locations/tokyo
+/careers/locations/toronto
+/careers/locations/warsaw
+/careers/locations/washington
+/careers/locations/ashburn
+/careers/locations/atlanta
+/careers/locations/austin
+/careers/locations/chicago
+/careers/locations/dallas
+/careers/locations/detriot
+/careers/locations/forrest-city
+/careers/locations/losangeles
+/careers/locations/menlo-park
+/careers/locations/mexico-city
+/careers/locations/miami
+/careers/locations/newyork
+/careers/locations/prineville
+/careers/locations/seattle
+/careers/locations/toronto
+/careers/locations/washington
+/careers/locations/amsterdam
+/careers/locations/brussels
+/careers/locations/dublin
+/careers/locations/hamburg
+/careers/locations/london
+/careers/locations/lulea
+/careers/locations/madrid
+/careers/locations/milan
+/careers/locations/paris
+/careers/locations/stockholm
+/careers/locations/warsaw
+/careers/locations/buenos-aires
+/careers/locations/saopaulo
+/careers/locations/auckland
+/careers/locations/hongkong
+/careers/locations/hyderabad
+/careers/locations/malaysia
+/careers/locations/melbourne
+/careers/locations/mumbai
+/careers/locations/seoul
+/careers/locations/singapore
+/careers/locations/sydney
+/careers/locations/tokyo
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/privacy/explanation
+/help/cookies
+/about/privacy/your-info
+/about/privacy/your-info-on-fb
+/about/privacy/your-info-on-other
+/about/privacy/advertising
+/about/privacy/cookies
+/about/privacy/other
+/help/contact_us.php?id=173545232710000
+/about/privacy/tools
+/about/privacy/minors
+/full_data_use_policy
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/help/cookies
+/help/?page=260315770650470&amp;ref=hcnav
+/help/?page=160699464027593&amp;ref=hcsubnav
+/help/?page=306856299342360&amp;ref=hcsubnav
+/help/?page=275290242506840&amp;ref=hcsubnav
+/help/?page=314891285187634&amp;ref=hcsubnav
+/help/?page=214512881928339&amp;ref=hcnav
+/help/?page=178608028874393&amp;ref=hcnav
+/help/?page=195623423828629&amp;ref=hcnav
+/help/?page=310847352301318&amp;ref=hcnav
+/help/safety
+/help/community
+/help/?page=260315770650470&amp;ref=bc
+/help/?page=306856299342360&amp;ref=bc
+/ajax/sharer/?s=34&amp;p[]=176591669064814
+/help/?faq=182104755198570&amp;in_context
+/help/?faq=236257763148568
+/help/?faq=330525367015217
+/about/privacy/your-info-on-other#platform
+/legal/terms
+/about/privacy/cookies
+http://dragon.ak.fbcdn.net/cfs-ak-snc6/84992/979/395701387118444_1090193793.pdf
+/l.php?u=http%3A%2F%2Fdataprotection.ie%2Fviewdoc.asp%3FDocID%3D1182&amp;h=WAQE0lAfl&amp;s=1
+/help/?faq=182104755198570#What-are-cookies?
+/help/?faq=182104755198570#What-are-cookies?
+/ajax/sharer/?s=34&amp;p[]=182104755198570
+/help/?faq=115180708570932#How-does-Facebook-use-cookies?
+/about/privacy
+/about/privacy/your-info-on-other#socialplugin
+/help/?faq=115180708570932#How-does-Facebook-use-cookies?
+/ajax/sharer/?s=34&amp;p[]=115180708570932
+/help/?faq=411070688917609#When-might-Facebook-place-cookies-on-my-device?
+/help/?faq=411070688917609#When-might-Facebook-place-cookies-on-my-device?
+/ajax/sharer/?s=34&amp;p[]=411070688917609
+/help/?faq=441197859229066#When-might-Facebook-read-the-cookies-on-my-machine?
+/help/?faq=441197859229066#When-might-Facebook-read-the-cookies-on-my-machine?
+/ajax/sharer/?s=34&amp;p[]=441197859229066
+/help/?faq=265264330237024#Why-does-Facebook-add-cookies-to-any-browser-that-visits-its-websites?
+/help/?faq=265264330237024#Why-does-Facebook-add-cookies-to-any-browser-that-visits-its-websites?
+/ajax/sharer/?s=34&amp;p[]=265264330237024
+/help/?faq=159967110798373#How-do-third-parties-use-cookies,-pixels,-and-other-similar-technologies-on-Facebook?
+/about/privacy/other
+/l.php?u=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&amp;h=YAQFSLIuP&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.aboutads.info%2F&amp;h=DAQHerqMq&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.iab.net&amp;h=wAQGXEMoI&amp;s=1
+/l.php?u=http%3A%2F%2Fyouronlinechoices.eu%2F&amp;h=qAQGL2wAo&amp;s=1
+/l.php?u=http%3A%2F%2Fatlassolutions.com%2Fhome&amp;h=eAQFpVjjQ&amp;s=1
+/l.php?u=https%3A%2F%2Fchoice.live.com%2FAdvertisementChoice%2FDefault.aspx&amp;h=KAQGhBC_P&amp;s=1
+/l.php?u=http%3A%2F%2Fbloom-hq.com%2F&amp;h=9AQHA55nN&amp;s=1
+/l.php?u=http%3A%2F%2Fadgear.com%2Fprivacy%2F&amp;h=yAQG3IfHc&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.google.com%2Fdoubleclick%2Findex.html&amp;h=KAQGhBC_P&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.google.com%2Fpolicies%2Fprivacy%2Fads%2F&amp;h=6AQFGWsMZ&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.flashtalking.com%2F&amp;h=iAQGLo-OJ&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.flashtalking.com%2FftCookieOptOut.html&amp;h=XAQE7LjGv&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.groupm.com%2F&amp;h=fAQFC7ttU&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.groupm.com%2Fprivacy-policy&amp;h=yAQG3IfHc&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.mediamind.com%2F&amp;h=GAQHW_UdX&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.mediamind.com%2Fprivacy-policy&amp;h=vAQGSc2B0&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.mediaplex.com%2F&amp;h=oAQFsr5J-&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.mediaplex.com%2Fopt-out&amp;h=CAQHSxqXx&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.pointroll.com%2F&amp;h=9AQHA55nN&amp;s=1
+/l.php?u=http%3A%2F%2Fwww.pointroll.com%2Fprivacy.php&amp;h=_AQH6J23g&amp;s=1
+/l.php?u=http%3A%2F%2Ftrueffect.com%2F&amp;h=mAQFnJTif&amp;s=1
+/l.php?u=http%3A%2F%2Fad.adlegend.com%2FTE_optout.html&amp;h=RAQEpxwya&amp;s=1
+/l.php?u=http%3A%2F%2Fweborama.com%2F&amp;h=ZAQGbXdV8&amp;s=1
+/l.php?u=http%3A%2F%2Fweborama.com%2F2%2Fpage-en-confidentialite.html&amp;h=nAQHpDNcx&amp;s=1
+/help/?faq=159967110798373#How-do-third-parties-use-cookies,-pixels,-and-other-similar-technologies-on-Facebook?
+/ajax/sharer/?s=34&amp;p[]=159967110798373
+/help/?faq=441677795848490#How-does-Facebook-use-cookies-for-security-purposes?
+/help/?faq=148233965247823&amp;in_context
+/help/?faq=162968940433354&amp;in_context
+/help/?faq=203805466323736&amp;in_context
+/help/?faq=441677795848490#How-does-Facebook-use-cookies-for-security-purposes?
+/ajax/sharer/?s=34&amp;p[]=441677795848490
+/help/?faq=239530772765713#Does-Facebook-use-cookies-if-I-don&#039;t-have-an-account-or-have-logged-out-of-my-account?
+/help/?faq=162968940433354&amp;in_context
+/help/?faq=148233965247823&amp;in_context
+/privacy/your-info-on-other#socialplugin
+/about/privacy/cookies
+/help/?faq=239530772765713#Does-Facebook-use-cookies-if-I-don&#039;t-have-an-account-or-have-logged-out-of-my-account?
+/ajax/sharer/?s=34&amp;p[]=239530772765713
+/help/?faq=236257763148568#What-are-pixel-tags?-How-does-Facebook-use-them?
+/help/?faq=236257763148568#What-are-pixel-tags?-How-does-Facebook-use-them?
+/ajax/sharer/?s=34&amp;p[]=236257763148568
+/help/?faq=330525367015217#What-is-local-storage?-How-does-Facebook-use-local-storage-technologies?
+/help/?faq=330525367015217#What-is-local-storage?-How-does-Facebook-use-local-storage-technologies?
+/ajax/sharer/?s=34&amp;p[]=330525367015217
+#
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/policies/?ref=pf
+/principles.php
+/about/ads
+/safety
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+going to crawl  http://www.facebook.com/help/?ref=pf
+/help/login-and-password
+http://www.facebook.com/facebooktips?ref=stream
+/facebooktips/posts/402126103169003
+http://www.facebook.com/jeanpierre.olber
+http://www.facebook.com/star.pres
+/browse/likes/?id=402126103169003
+http://www.facebook.com/fbsafety?ref=stream
+/l.php?u=http%3A%2F%2Fgreatergood.berkeley.edu%2Farticle%2Fitem%2Fcan_science_make_facebook_more_compassionate&amp;h=OAQEd6SvZAQH7STRlwm1rvaLV8JFO8QmkgQX-88ztTdltag&amp;s=1
+/fbsafety/posts/137242763082793
+http://www.facebook.com/aminaabby20
+http://www.facebook.com/jeanpierre.olber
+/browse/likes/?id=137242763082793
+http://www.facebook.com/security?ref=stream
+http://www.facebook.com/pages/SANS-Institute/173623382673767
+/l.php?u=http%3A%2F%2Fwww.securingthehuman.org%2Fservices%2Flanguages&amp;h=YAQE2meP5AQE536QolfSYP_lBJ3GVSNqzbHyc5R2KbaoW0w&amp;s=1
+http://www.facebook.com/photo.php?v=10100330559742423
+http://www.facebook.com/fatime.jashari.9
+http://www.facebook.com/people/Farouk-Legrine/100004200913371
+/browse/likes/?id=10100330559742423
+http://www.facebook.com/mobile/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/directory/people/
+http://www.facebook.com/directory/pages/
+http://www.facebook.com/facebook
+http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto
+http://www.facebook.com/pages/create.php?ref_type=sitefooter
+http://developers.facebook.com/?ref=pf
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/privacy/explanation
+http://www.facebook.com/help/cookies
+http://www.facebook.com/policies/?ref=pf
+http://www.facebook.com/help/?ref=pf
+done
+done

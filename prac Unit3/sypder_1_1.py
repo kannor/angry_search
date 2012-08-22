@@ -39,32 +39,3 @@ def print_all_links(page):
     else:
       break
     
-
-
-#print_all_links(get_page('https://xkcd.com/352'))
-
-def print_all_links_in_links(page):
-  while True:
-    url, endpos = get_next_target(page)
-    
-    if url:
-      print
-      print url;print 'going to crawl ',url
-      f.write('going to crawl  ' +url+'\n')
-      page= page[endpos:]
-      while True:
-        
-        url = print_all_links(get_page(url))
-        if url:
-          print url
-          f.write(url+'\n')
-          page= page[endpos:]
-        else:
-          f.write('done\n')
-          print 'done'
-          break
-    else:
-      f.write('done\n')
-      print 'done'
-      break
-print_all_links_in_links(get_page('http://facebook.com/'))
