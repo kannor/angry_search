@@ -33,15 +33,17 @@ def print_all_links(page):
   while True:
     url, endpos = get_next_target(page)
     if url:
-      print url
+      #print url
+      all_links.append(url)
       f.write(url+'\n')
       page= page[endpos:]
     else:
       break
+  print  all_links
     
 
 
-#print_all_links(get_page('https://xkcd.com/352'))
+print_all_links(get_page('https://xkcd.com/'))
 
 def print_all_links_in_links(page):
   while True:
@@ -67,4 +69,4 @@ def print_all_links_in_links(page):
       f.write('done\n')
       print 'done'
       break
-print_all_links_in_links(get_page('http://facebook.com/'))
+#print_all_links_in_links(get_page('http://facebook.com/'))
