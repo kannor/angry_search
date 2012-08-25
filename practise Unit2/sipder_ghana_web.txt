@@ -5186,3 +5186,11 @@ http://pbfcomics.com/
 http://questionablecontent.net/
 http://www.buttercupfestival.com/
 http://creativecommons.org/licenses/by-nc/2.5/
+Cannot open URL http://xkcd.com/365 for reading
+going to crawl  http://www.ug.edu.gh
+Cannot open URL http://www.ug.edu.gh for reading
+done
+going to crawl  http://webmail.ug.edu.gh
+http://www.axigen.com/
+done
+going to crawl  http://oldwebmail.ug.edu.gh
