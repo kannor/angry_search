@@ -6,7 +6,7 @@ def open_url(url):
     try:
         return str(urlopen(url).read())
     except:
-        print 'cannot open %s for reading' % (url)
+        #print 'cannot open %s for reading' % (url)
         return ''
 def union(link_a,link_b):
     #list_a = []
@@ -36,7 +36,8 @@ def get_link(page):
             page = page[endpos:]
         else:
             break
-    return links
+    #print links
+    return (links)
 
 
 def crawl_web(seed):
@@ -47,6 +48,7 @@ def crawl_web(seed):
         if page not in crawled:
             union(tocrawl,get_link(open_url(page)))
             crawled.append(page)
-    return crawled
-crawl_web('http://www.udacity.com/cs101x/index.html')
+    print  crawled
+#get_link(open_url('http://www.ug.edu.gh'))
+crawl_web('http://xkcd.com/')
             
