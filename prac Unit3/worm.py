@@ -39,8 +39,13 @@ def get_link(page):
     #print links
     return (links)
 
+
+
+
+
+    
 # this procedure checks the maximum number of pages to crawl
-def crawl_web(seed, max_pages):
+def crawl_web1(seed, max_pages):
     #max_pages = 5
     tocrawl = [seed]
     crawled = []
@@ -72,23 +77,81 @@ def crawl_web2(seed,max_depth):
     print  crawled
     
     print len(crawled)
-index = []
+#index = []
 def add_to_index(index,keyword,url):
     for e in index:
         if e[0] == keyword:
             e[1].append(url)
             return
+    #if not found add a new entry
     index.append([keyword,[url]])
-    print index
+    
 
 def lookup(index,keyword):
     for e in index:
         if e[0] == keyword:
             return e[1]
         
-    return []
+    return 'No Results', []
+
+def add_page_to_index(index,url,content):
+    words = content.split()
+    for word  in words:
+        add_to_index(index,word,url)
+'''
+        for e in index:
+            if e[0] == word:
+                e[1].append(url)
+                #return
+        index.append([word,[url]])
+'''
+def crawl_web(seed,max_pages):
+    #max_pages = 5
+    tocrawl = [seed]
+    crawled = []
+    index =[]
+    while tocrawl:
+        page = tocrawl.pop()
+        if page not in crawled and len(crawled) < max_pages:
+            content = open_url(page)
+            add_page_to_index(index,page,content)
+            union(tocrawl,get_link(content))
+            crawled.append(page)
+    print crawled
+    print content
+    print index
+    return index
+    
+
+index =[]
+
+crawl_web('http://www.xkcd.com/',1)
+'''
+add_page_to_index(index,'fake.com',"This is a test")
+#print index
+add_page_to_index(index,'not.com',"This is not a test man")
+add_page_to_index(index,'come.com',"This is not a test man")
+add_page_to_index(index,'fb.com.',"This is not a test for women")
+print index
+
+add_page_to_index(index,'http://dilbert.com',
+                  """
+Another Strategy is to ignore the fact that you are slowly killing yourself
+by not sleeping and exercising enough. That frees up several hours a day.
+The only downsides is that you get fata and die.
+-- Scott Adams on Time Management""")
+
+add_page_to_index(index,'http://randy.pausch',
+                  """
+                  Good judgment comes from experience, experience comes from bad
+                  judgement. If things aren't going well it probably means you are
+                  learning a lot and things wil go better latterr.
+                    ---Randy Pausch
+                  """)
+print index
 
 #get_link(open_url('http://www.ug.edu.gh'))
-#crawl_web('http://www.facebook.com/',100)
+crawl_web('http://www.facebook.com/',100)
 #crawl_web2('http://www.facebook.com/',10)
             
+'''
