@@ -43,7 +43,7 @@ def print_all_links(page):
     
 
 
-print_all_links(get_page('http://xkcd.com/365/'))
+#print_all_links(get_page('http://xkcd.com/365/'))
 
 def print_all_links_in_links(page):
   while True:
@@ -69,4 +69,4 @@ def print_all_links_in_links(page):
       f.write('done\n')
       print 'done'
       break
-#print_all_links_in_links(get_page('http://www.ug.edu.gh/'))
+print_all_links_in_links(get_page('http://xkcd.com/365/'))

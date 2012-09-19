@@ -1,13 +1,14 @@
 from urllib2 import urlopen
-
+execfile("open_url.py")
 #opens an url
-
+'''
 def open_url(url):
     try:
         return str(urlopen(url).read())
     except:
         print 'cannot open %s for reading or invalid url' % (url)
         return ''
+'''
 def union(link_a,link_b):
     #list_a = []
     for url in link_b:
@@ -77,22 +78,17 @@ def crawl_web2(seed,max_depth):
     print  crawled
     
     print len(crawled)
-#index = []
+index = []
 def add_to_index(index,keyword,url):
     for e in index:
         if e[0] == keyword:
-            e[1].append(url)
+            if not url in e[1]:
+                e[1].append(url)
             return
     #if not found add a new entry
     index.append([keyword,[url]])
     
 
-def lookup(index,keyword):
-    for e in index:
-        if e[0] == keyword:
-            return e[1]
-        
-    return 'No Results', []
 
 def add_page_to_index(index,url,content):
     words = content.split()
@@ -123,7 +119,15 @@ def crawl_web(seed,max_pages):
     return index
     
 
-index =[]
+
+
+def lookup(index,keyword):
+    for e in index:
+        if e[0] == keyword:
+            return e[1]
+        
+    return []
+
 
 crawl_web('http://www.xkcd.com/',1)
 '''
@@ -133,6 +137,7 @@ add_page_to_index(index,'not.com',"This is not a test man")
 add_page_to_index(index,'come.com',"This is not a test man")
 add_page_to_index(index,'fb.com.',"This is not a test for women")
 print index
+
 
 add_page_to_index(index,'http://dilbert.com',
                   """
@@ -148,10 +153,10 @@ add_page_to_index(index,'http://randy.pausch',
                   learning a lot and things wil go better latterr.
                     ---Randy Pausch
                   """)
-print index
 
+print index
+'''
 #get_link(open_url('http://www.ug.edu.gh'))
-crawl_web('http://www.facebook.com/',100)
+#crawl_web('http://www.facebook.com/',100)
 #crawl_web2('http://www.facebook.com/',10)
             
-'''
